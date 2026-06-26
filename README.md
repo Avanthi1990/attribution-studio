@@ -25,7 +25,7 @@ See `sql/01_canonical_schema.sql`.
 |---|---|
 | First-touch | conversion window(s) |
 | Last-touch | lookback window |
-| Linear | — (even split) |
+| Linear | - (even split) |
 | Time-decay | half-life (days) |
 | Position-based | first/last weights (default 40/20/40) |
 | Markov (data-driven) | conversion definition |
