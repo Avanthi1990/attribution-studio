@@ -1,0 +1,10 @@
+user_id,event_timestamp,channel,campaign,event_type,conversion_type,value,session_id
+u001,2026-01-05 09:00:00,Paid Social,winter_promo,click,,,s1
+u001,2026-01-12 14:00:00,Email,newsletter,click,,,s2
+u001,2026-01-18 20:00:00,Direct,,session,,,s3
+u001,2026-01-20 11:00:00,Direct,,conversion,lease,2400,s3
+u002,2026-02-01 08:00:00,Paid Search,brand,click,,,s4
+u002,2026-02-03 19:00:00,Paid Search,brand,conversion,lead,,s4
+u003,2026-02-10 12:00:00,Display,retargeting,impression,,,s5
+u003,2026-02-15 17:00:00,Organic,,click,,,s6
+u003,2026-02-21 10:00:00,Email,nurture,conversion,tour,,s7

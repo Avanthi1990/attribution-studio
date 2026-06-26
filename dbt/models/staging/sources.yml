@@ -1,0 +1,29 @@
+version: 2
+
+sources:
+  - name: raw
+    # Per-upload schema the loader writes canonical_events into.
+    # Overridable per run: dbt build --vars 'upload_schema: upload_abc123'
+    schema: "{{ var('upload_schema') }}"
+    description: >
+      Raw canonical events as loaded from the validated CSV upload. This is the
+      contract defined in sql/01_canonical_schema.sql. Irvine ships as the demo.
+    tables:
+      - name: canonical_events
+        description: One row = one marketing touch or a conversion event (long format).
+        columns:
+          - name: user_id
+            description: Identifies the journey/person.
+            tests: [not_null]
+          - name: event_timestamp
+            description: ISO datetime of the touch/event.
+            tests: [not_null]
+          - name: channel
+            description: Marketing channel/source (e.g. "Paid Social").
+            tests: [not_null]
+          - name: event_type
+            description: "One of: impression | click | session | conversion."
+            tests:
+              - not_null
+              - accepted_values:
+                  values: ["impression", "click", "session", "conversion"]

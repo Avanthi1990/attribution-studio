@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# dbt
+dbt/target/
+dbt/dbt_packages/
+.user.yml
+
+# logs (any location)
+logs/
+*.log
+
+# local profile may hold credentials (we use ~/.dbt/profiles.yml, not committed)
+profiles.yml
+
+# OS
+.DS_Store
+
+# NOTE: dashboard/data/*.csv snapshots ARE committed on purpose -- they make the
+# hosted Streamlit demo work without a database.

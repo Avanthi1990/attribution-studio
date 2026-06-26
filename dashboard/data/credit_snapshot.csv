@@ -1,0 +1,48 @@
+attribution_model,channel,attributed_conversions,attributed_value
+first_touch,ILS,17.0,0.0
+first_touch,Paid Social,14.0,0.0
+first_touch,Paid Search,12.0,0.0
+first_touch,Organic,3.0,0.0
+first_touch,Email,3.0,0.0
+first_touch,Direct,1.0,0.0
+first_touch,Referral,1.0,0.0
+last_touch,Paid Social,13.0,0.0
+last_touch,ILS,12.0,0.0
+last_touch,Paid Search,10.0,0.0
+last_touch,Email,6.0,0.0
+last_touch,Organic,5.0,0.0
+last_touch,Direct,2.0,0.0
+last_touch,Display,2.0,0.0
+last_touch,Referral,1.0,0.0
+linear,ILS,14.083333333333334,0.0
+linear,Paid Social,13.597619047619048,0.0
+linear,Paid Search,10.691666666666666,0.0
+linear,Email,4.2785714285714285,0.0
+linear,Organic,3.7642857142857142,0.0
+linear,Display,2.1416666666666666,0.0
+linear,Direct,1.4428571428571428,0.0
+linear,Referral,1.0,0.0
+markov,Direct,4.991374253197716,0.0
+markov,Display,3.690897922455375,0.0
+markov,Email,6.262917125918574,0.0
+markov,ILS,11.000622076904214,0.0
+markov,Organic,6.234197134881154,0.0
+markov,Paid Search,8.014556106927559,0.0
+markov,Paid Social,9.682427654949064,0.0
+markov,Referral,1.123007724766348,0.0
+position_based,ILS,14.397142857142857,0.0
+position_based,Paid Social,13.486190476190476,0.0
+position_based,Paid Search,10.893333333333333,0.0
+position_based,Email,4.466666666666667,0.0
+position_based,Organic,3.9566666666666666,0.0
+position_based,Direct,1.4666666666666666,0.0
+position_based,Display,1.3333333333333333,0.0
+position_based,Referral,1.0,0.0
+time_decay,Paid Social,13.578034506075081,0.0
+time_decay,ILS,12.966683052231167,0.0
+time_decay,Paid Search,10.525519757172445,0.0
+time_decay,Email,5.95320532199881,0.0
+time_decay,Organic,4.061048128589778,0.0
+time_decay,Display,1.7333498056732113,0.0
+time_decay,Direct,1.1821594282595074,0.0
+time_decay,Referral,1.0,0.0

@@ -1,0 +1,7 @@
+# Runtime deps for the Streamlit dashboard (what Streamlit Community Cloud installs).
+# The hosted app reads committed CSV snapshots, so dbt/Postgres are NOT needed here.
+# For the full local pipeline (dbt build + Markov), use requirements-dev.txt.
+streamlit==1.50.0
+pandas==2.3.3
+plotly==6.8.0
+psycopg2-binary==2.9.12

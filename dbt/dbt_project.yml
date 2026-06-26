@@ -1,0 +1,50 @@
+name: attribution_studio
+version: "1.0.0"
+config-version: 2
+
+# Connection profile (defined in ~/.dbt/profiles.yml). See README for the
+# Postgres target. The upload layer can point models at a per-upload schema by
+# passing --vars 'upload_schema: <schema>' at build time.
+profile: attribution_studio
+
+model-paths: ["models"]
+
+vars:
+  # Schema where the upload layer loads canonical_events for this run.
+  # Defaults to the bundled Irvine demo schema.
+  upload_schema: attribution_demo
+
+  # --- attribution model config (overridable per run from the app UI) ---
+  # Which conversion (funnel step) to attribute credit FOR. The app exposes this
+  # as a dropdown. 'any' = every conversion closes a journey; otherwise only this
+  # conversion_type closes journeys and earlier funnel steps (e.g. lead/tour when
+  # target is 'lease') become neutral context -- their preceding sessions all
+  # credit the target conversion instead.
+  # Demo default 'lead' (51 conversions = fullest story); switch to 'lease' (the
+  # revenue event, 6 conversions) or any funnel step from the app dropdown.
+  target_conversion: lead
+
+  # Last-touch lookback: a touch only competes for credit if it happened within
+  # this many days before the conversion.
+  last_touch_lookback_days: 90
+
+  # Time-decay half-life: credit halves for every this-many days a touch sits
+  # before the conversion (smaller = more weight on recent touches).
+  time_decay_half_life_days: 7
+
+  # Position-based (U-shaped): share of credit to the first and last touch; the
+  # remainder (1 - first - last) is split evenly across the middle touches.
+  position_first_weight: 0.4
+  position_last_weight: 0.4
+
+models:
+  attribution_studio:
+    staging:
+      # Staging is cheap, 1:1 cleaning -> views (always fresh, no storage).
+      +materialized: view
+    intermediate:
+      # Journey structure -> view (queryable while we learn; cheap to rebuild).
+      +materialized: view
+    marts:
+      # Attribution marts are reused by the app -> tables.
+      +materialized: table

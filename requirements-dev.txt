@@ -1,0 +1,6 @@
+# Full local pipeline: dashboard runtime + dbt build + Markov script.
+#   python3 -m venv .venv && .venv/bin/pip install -r requirements-dev.txt
+-r requirements.txt
+dbt-core==1.10.22
+dbt-postgres==1.9.1
+numpy==2.0.2

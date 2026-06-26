@@ -1,0 +1,863 @@
+user_id,event_timestamp,channel,campaign,event_type,conversion_type,value,session_id
+u0001,2026-02-05 22:00:00,Paid Search,pmax_brand_2026,session,,,u0001_J1_S0
+u0001,2026-02-05 22:02:00,Paid Search,pmax_brand_2026,session,,,u0001_J1_S0
+u0001,2026-02-05 22:25:00,Paid Search,pmax_brand_2026,session,,,u0001_J1_S0
+u0001,2026-03-12 23:00:00,Email,nurture_drip_leads,session,,,u0001_J1_S1
+u0001,2026-03-12 23:07:00,Email,nurture_drip_leads,session,,,u0001_J1_S1
+u0001,2026-03-12 23:17:00,Email,nurture_drip_leads,session,,,u0001_J1_S1
+u0001,2026-04-09 23:00:00,Display,rtg_30d_abandoners,session,,,u0001_J1_S2
+u0001,2026-04-09 23:03:00,Display,rtg_30d_abandoners,session,,,u0001_J1_S2
+u0002,2025-10-30 21:00:00,ILS,ils_always_on,session,,,u0002_J1_S0
+u0002,2025-10-30 21:08:00,ILS,ils_always_on,session,,,u0002_J1_S0
+u0002,2025-11-17 09:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0002_J1_S1
+u0002,2025-11-17 09:02:00,Paid Social,tiktok_giveaway_q2,session,,,u0002_J1_S1
+u0003,2026-01-14 09:00:00,Paid Social,meta_lookalike_renters,session,,,u0003_J1_S0
+u0003,2026-01-14 09:03:00,Paid Social,meta_lookalike_renters,session,,,u0003_J1_S0
+u0003,2026-01-14 09:17:00,Paid Social,meta_lookalike_renters,session,,,u0003_J1_S0
+u0003,2026-01-20 18:00:00,Paid Social,meta_lookalike_renters,conversion,lead,,u0003_J1_S0
+u0003,2026-01-24 19:00:00,Paid Social,meta_lookalike_renters,conversion,tour,,u0003_J1_S0
+u0003,2026-01-29 00:00:00,Paid Social,meta_lookalike_renters,conversion,tour,,u0003_J1_S0
+u0003,2026-02-07 11:00:00,Paid Social,meta_lookalike_renters,session,,,u0003_J1_S1
+u0003,2026-02-07 11:06:00,Paid Social,meta_lookalike_renters,session,,,u0003_J1_S1
+u0003,2026-03-03 16:00:00,Display,rtg_30d_abandoners,session,,,u0003_J1_S2
+u0003,2026-03-03 16:01:00,Display,rtg_30d_abandoners,session,,,u0003_J1_S2
+u0004,2025-11-02 00:00:00,Organic,(organic),session,,,u0004_J1_S0
+u0004,2025-11-02 00:07:00,Organic,(organic),session,,,u0004_J1_S0
+u0004,2025-12-02 02:00:00,Organic,(organic),session,,,u0004_J1_S1
+u0004,2025-12-02 02:03:00,Organic,(organic),session,,,u0004_J1_S1
+u0004,2025-12-19 04:00:00,Direct,(direct),session,,,u0004_J1_S2
+u0004,2025-12-19 04:02:00,Direct,(direct),session,,,u0004_J1_S2
+u0004,2025-12-19 04:14:00,Direct,(direct),session,,,u0004_J1_S2
+u0004,2026-01-04 15:00:00,Display,rtg_tour_noshow,session,,,u0004_J1_S3
+u0004,2026-01-04 15:02:00,Display,rtg_tour_noshow,session,,,u0004_J1_S3
+u0004,2026-01-04 15:23:00,Display,rtg_tour_noshow,session,,,u0004_J1_S3
+u0005,2025-05-11 09:00:00,Paid Social,meta_lookalike_renters,session,,,u0005_J1_S0
+u0005,2025-05-11 09:08:00,Paid Social,meta_lookalike_renters,session,,,u0005_J1_S0
+u0005,2025-05-11 09:17:00,Paid Social,meta_lookalike_renters,session,,,u0005_J1_S0
+u0006,2025-06-04 08:00:00,Organic,(organic),session,,,u0006_J1_S0
+u0006,2025-06-04 08:06:00,Organic,(organic),session,,,u0006_J1_S0
+u0006,2025-06-04 08:12:00,Organic,(organic),session,,,u0006_J1_S0
+u0006,2025-12-04 08:00:00,Organic,(organic),session,,,u0006_J2_S0
+u0006,2025-12-04 08:03:00,Organic,(organic),session,,,u0006_J2_S0
+u0006,2025-12-10 09:00:00,Paid Social,meta_lookalike_renters,session,,,u0006_J2_S1
+u0006,2025-12-10 09:05:00,Paid Social,meta_lookalike_renters,session,,,u0006_J2_S1
+u0006,2026-01-11 10:00:00,Email,nurture_drip_leads,session,,,u0006_J2_S2
+u0006,2026-01-11 10:04:00,Email,nurture_drip_leads,session,,,u0006_J2_S2
+u0006,2026-02-15 22:00:00,Organic,(organic),session,,,u0006_J2_S3
+u0006,2026-02-15 22:08:00,Organic,(organic),session,,,u0006_J2_S3
+u0007,2025-10-26 08:00:00,ILS,ils_always_on,session,,,u0007_J1_S0
+u0007,2025-10-26 08:04:00,ILS,ils_always_on,session,,,u0007_J1_S0
+u0007,2025-10-26 08:10:00,ILS,ils_always_on,session,,,u0007_J1_S0
+u0008,2025-10-20 05:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0008_J1_S0
+u0008,2025-10-20 05:02:00,Paid Social,tiktok_giveaway_q2,session,,,u0008_J1_S0
+u0008,2025-10-20 05:15:00,Paid Social,tiktok_giveaway_q2,session,,,u0008_J1_S0
+u0008,2025-11-02 19:00:00,Paid Social,tiktok_giveaway_q2,conversion,lead,,u0008_J1_S0
+u0008,2025-11-16 08:00:00,Email,nurture_drip_leads,session,,,u0008_J1_S1
+u0008,2025-11-16 08:07:00,Email,nurture_drip_leads,session,,,u0008_J1_S1
+u0008,2025-11-16 08:23:00,Email,nurture_drip_leads,session,,,u0008_J1_S1
+u0008,2025-11-18 06:00:00,Email,nurture_drip_leads,conversion,tour,,u0008_J1_S1
+u0008,2025-11-21 07:00:00,Email,nurture_drip_leads,conversion,tour,,u0008_J1_S1
+u0008,2025-11-23 09:00:00,Direct,(direct),session,,,u0008_J1_S2
+u0008,2025-11-23 09:08:00,Direct,(direct),session,,,u0008_J1_S2
+u0008,2025-11-27 07:00:00,Direct,(direct),conversion,application,,u0008_J1_S2
+u0008,2025-12-21 14:00:00,Display,rtg_30d_abandoners,session,,,u0008_J1_S3
+u0008,2025-12-21 14:01:00,Display,rtg_30d_abandoners,session,,,u0008_J1_S3
+u0009,2026-01-01 21:00:00,Organic,(organic),session,,,u0009_J1_S0
+u0009,2026-01-01 21:05:00,Organic,(organic),session,,,u0009_J1_S0
+u0009,2026-01-01 21:24:00,Organic,(organic),session,,,u0009_J1_S0
+u0009,2026-01-05 23:00:00,Direct,(direct),session,,,u0009_J1_S1
+u0009,2026-01-05 23:04:00,Direct,(direct),session,,,u0009_J1_S1
+u0009,2026-01-30 23:00:00,Email,nurture_drip_leads,session,,,u0009_J1_S2
+u0009,2026-01-30 23:06:00,Email,nurture_drip_leads,session,,,u0009_J1_S2
+u0009,2026-01-30 23:24:00,Email,nurture_drip_leads,session,,,u0009_J1_S2
+u0009,2026-02-25 03:00:00,Email,nurture_drip_leads,session,,,u0009_J1_S3
+u0009,2026-02-25 03:01:00,Email,nurture_drip_leads,session,,,u0009_J1_S3
+u0009,2026-06-16 03:00:00,Organic,(organic),session,,,u0009_J2_S0
+u0009,2026-06-16 03:04:00,Organic,(organic),session,,,u0009_J2_S0
+u0009,2026-06-16 03:13:00,Organic,(organic),session,,,u0009_J2_S0
+u0010,2026-01-12 09:00:00,ILS,ils_always_on,session,,,u0010_J1_S0
+u0010,2026-01-12 09:04:00,ILS,ils_always_on,session,,,u0010_J1_S0
+u0010,2026-01-12 09:14:00,ILS,ils_always_on,session,,,u0010_J1_S0
+u0010,2026-01-21 14:00:00,Organic,(organic),session,,,u0010_J1_S1
+u0010,2026-01-21 14:01:00,Organic,(organic),session,,,u0010_J1_S1
+u0011,2025-12-27 07:00:00,Paid Search,geo_irvine_lease,session,,,u0011_J1_S0
+u0011,2025-12-27 07:06:00,Paid Search,geo_irvine_lease,session,,,u0011_J1_S0
+u0011,2025-12-27 07:17:00,Paid Search,geo_irvine_lease,session,,,u0011_J1_S0
+u0011,2026-01-15 14:00:00,Paid Search,geo_irvine_lease,conversion,lead,,u0011_J1_S0
+u0012,2026-01-23 08:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0012_J1_S0
+u0012,2026-01-23 08:01:00,Paid Social,tiktok_giveaway_q2,session,,,u0012_J1_S0
+u0012,2026-01-23 08:13:00,Paid Social,tiktok_giveaway_q2,session,,,u0012_J1_S0
+u0012,2026-02-09 10:00:00,Email,tour_reminder,session,,,u0012_J1_S1
+u0012,2026-02-09 10:03:00,Email,tour_reminder,session,,,u0012_J1_S1
+u0012,2026-02-09 10:10:00,Email,tour_reminder,session,,,u0012_J1_S1
+u0012,2026-03-10 18:00:00,Organic,(organic),session,,,u0012_J1_S2
+u0012,2026-03-10 18:06:00,Organic,(organic),session,,,u0012_J1_S2
+u0012,2026-03-10 18:16:00,Organic,(organic),session,,,u0012_J1_S2
+u0013,2025-05-08 03:00:00,Email,nurture_drip_leads,session,,,u0013_J1_S0
+u0013,2025-05-08 03:08:00,Email,nurture_drip_leads,session,,,u0013_J1_S0
+u0013,2025-05-08 03:23:00,Email,nurture_drip_leads,session,,,u0013_J1_S0
+u0013,2025-05-10 05:00:00,Organic,(organic),session,,,u0013_J1_S1
+u0013,2025-05-10 05:04:00,Organic,(organic),session,,,u0013_J1_S1
+u0013,2025-05-10 05:15:00,Organic,(organic),session,,,u0013_J1_S1
+u0013,2025-05-29 11:00:00,Organic,(organic),conversion,lead,,u0013_J1_S1
+u0013,2025-06-01 17:00:00,Organic,(organic),session,,,u0013_J1_S2
+u0013,2025-06-01 17:02:00,Organic,(organic),session,,,u0013_J1_S2
+u0013,2025-06-08 06:00:00,Organic,(organic),conversion,tour,,u0013_J1_S2
+u0013,2025-06-11 10:00:00,Organic,(organic),conversion,tour,,u0013_J1_S2
+u0013,2025-06-29 05:00:00,Direct,(direct),session,,,u0013_J1_S3
+u0013,2025-06-29 05:06:00,Direct,(direct),session,,,u0013_J1_S3
+u0014,2025-10-08 07:00:00,ILS,ils_always_on,session,,,u0014_J1_S0
+u0014,2025-10-08 07:07:00,ILS,ils_always_on,session,,,u0014_J1_S0
+u0014,2025-10-28 00:00:00,ILS,ils_always_on,conversion,lead,,u0014_J1_S0
+u0014,2025-10-29 13:00:00,Direct,(direct),session,,,u0014_J1_S1
+u0014,2025-10-29 13:07:00,Direct,(direct),session,,,u0014_J1_S1
+u0014,2025-10-29 13:15:00,Direct,(direct),session,,,u0014_J1_S1
+u0014,2026-05-01 13:00:00,ILS,ils_always_on,session,,,u0014_J2_S0
+u0014,2026-05-01 13:05:00,ILS,ils_always_on,session,,,u0014_J2_S0
+u0014,2026-05-21 21:00:00,Direct,(direct),session,,,u0014_J2_S1
+u0014,2026-05-21 21:03:00,Direct,(direct),session,,,u0014_J2_S1
+u0014,2026-06-11 07:00:00,Organic,(organic),session,,,u0014_J2_S2
+u0014,2026-06-11 07:05:00,Organic,(organic),session,,,u0014_J2_S2
+u0014,2026-06-11 07:22:00,Organic,(organic),session,,,u0014_J2_S2
+u0015,2025-09-07 02:00:00,ILS,ils_always_on,session,,,u0015_J1_S0
+u0015,2025-09-07 02:02:00,ILS,ils_always_on,session,,,u0015_J1_S0
+u0015,2025-09-18 12:00:00,Paid Search,geo_irvine_lease,session,,,u0015_J1_S1
+u0015,2025-09-18 12:05:00,Paid Search,geo_irvine_lease,session,,,u0015_J1_S1
+u0015,2025-09-18 12:15:00,Paid Search,geo_irvine_lease,session,,,u0015_J1_S1
+u0015,2025-09-24 16:00:00,Direct,(direct),session,,,u0015_J1_S2
+u0015,2025-09-24 16:04:00,Direct,(direct),session,,,u0015_J1_S2
+u0015,2025-10-28 02:00:00,Email,nurture_drip_leads,session,,,u0015_J1_S3
+u0015,2025-10-28 02:08:00,Email,nurture_drip_leads,session,,,u0015_J1_S3
+u0015,2025-10-28 02:15:00,Email,nurture_drip_leads,session,,,u0015_J1_S3
+u0016,2025-10-17 07:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0016_J1_S0
+u0016,2025-10-17 07:03:00,Paid Social,tiktok_giveaway_q2,session,,,u0016_J1_S0
+u0016,2025-11-20 14:00:00,Paid Search,geo_irvine_lease,session,,,u0016_J1_S1
+u0016,2025-11-20 14:06:00,Paid Search,geo_irvine_lease,session,,,u0016_J1_S1
+u0016,2025-11-24 22:00:00,Display,rtg_tour_noshow,session,,,u0016_J1_S2
+u0016,2025-11-24 22:08:00,Display,rtg_tour_noshow,session,,,u0016_J1_S2
+u0016,2025-12-10 23:00:00,Paid Search,nonbrand_2br_socal,session,,,u0016_J1_S3
+u0016,2025-12-10 23:08:00,Paid Search,nonbrand_2br_socal,session,,,u0016_J1_S3
+u0016,2025-12-10 23:16:00,Paid Search,nonbrand_2br_socal,session,,,u0016_J1_S3
+u0017,2025-05-28 02:00:00,Paid Social,meta_lookalike_renters,session,,,u0017_J1_S0
+u0017,2025-05-28 02:03:00,Paid Social,meta_lookalike_renters,session,,,u0017_J1_S0
+u0017,2025-05-28 02:21:00,Paid Social,meta_lookalike_renters,session,,,u0017_J1_S0
+u0017,2025-06-07 13:00:00,Paid Social,meta_lookalike_renters,conversion,lead,,u0017_J1_S0
+u0017,2025-10-05 02:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0017_J2_S0
+u0017,2025-10-05 02:07:00,Paid Social,tiktok_giveaway_q2,session,,,u0017_J2_S0
+u0017,2025-10-09 05:00:00,Email,nurture_drip_leads,session,,,u0017_J2_S1
+u0017,2025-10-09 05:07:00,Email,nurture_drip_leads,session,,,u0017_J2_S1
+u0017,2025-10-09 05:20:00,Email,nurture_drip_leads,session,,,u0017_J2_S1
+u0018,2025-07-19 01:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0018_J1_S0
+u0018,2025-07-19 01:07:00,Paid Social,tiktok_giveaway_q2,session,,,u0018_J1_S0
+u0018,2025-07-21 07:00:00,Display,rtg_30d_abandoners,session,,,u0018_J1_S1
+u0018,2025-07-21 07:01:00,Display,rtg_30d_abandoners,session,,,u0018_J1_S1
+u0018,2026-03-13 07:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0018_J2_S0
+u0018,2026-03-13 07:01:00,Paid Social,tiktok_giveaway_q2,session,,,u0018_J2_S0
+u0018,2026-04-10 20:00:00,Paid Social,tiktok_giveaway_q2,conversion,lead,,u0018_J2_S0
+u0018,2026-04-12 12:00:00,Direct,(direct),session,,,u0018_J2_S1
+u0018,2026-04-12 12:04:00,Direct,(direct),session,,,u0018_J2_S1
+u0018,2026-04-20 14:00:00,Direct,(direct),conversion,tour,,u0018_J2_S1
+u0018,2026-04-26 15:00:00,Direct,(direct),conversion,tour,,u0018_J2_S1
+u0018,2026-05-05 00:00:00,Display,rtg_30d_abandoners,session,,,u0018_J2_S2
+u0018,2026-05-05 00:01:00,Display,rtg_30d_abandoners,session,,,u0018_J2_S2
+u0019,2025-12-02 06:00:00,Paid Search,pmax_brand_2026,session,,,u0019_J1_S0
+u0019,2025-12-02 06:05:00,Paid Search,pmax_brand_2026,session,,,u0019_J1_S0
+u0019,2025-12-02 16:00:00,Paid Search,pmax_brand_2026,conversion,lead,,u0019_J1_S0
+u0019,2025-12-10 18:00:00,Email,nurture_drip_leads,session,,,u0019_J1_S1
+u0019,2025-12-10 18:01:00,Email,nurture_drip_leads,session,,,u0019_J1_S1
+u0019,2025-12-10 18:22:00,Email,nurture_drip_leads,session,,,u0019_J1_S1
+u0019,2025-12-16 13:00:00,Email,nurture_drip_leads,conversion,tour,,u0019_J1_S1
+u0019,2025-12-21 14:00:00,Email,nurture_drip_leads,conversion,tour,,u0019_J1_S1
+u0019,2025-12-21 22:00:00,Paid Search,pmax_brand_2026,session,,,u0019_J1_S2
+u0019,2025-12-21 22:06:00,Paid Search,pmax_brand_2026,session,,,u0019_J1_S2
+u0019,2025-12-21 22:22:00,Paid Search,pmax_brand_2026,session,,,u0019_J1_S2
+u0019,2025-12-24 14:00:00,Paid Search,pmax_brand_2026,conversion,application,,u0019_J1_S2
+u0019,2025-12-29 07:00:00,Display,rtg_30d_abandoners,session,,,u0019_J1_S3
+u0019,2025-12-29 07:07:00,Display,rtg_30d_abandoners,session,,,u0019_J1_S3
+u0020,2025-07-11 07:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0020_J1_S0
+u0020,2025-07-11 07:04:00,Paid Social,tiktok_giveaway_q2,session,,,u0020_J1_S0
+u0020,2025-07-29 12:00:00,Email,tour_reminder,session,,,u0020_J1_S1
+u0020,2025-07-29 12:06:00,Email,tour_reminder,session,,,u0020_J1_S1
+u0020,2025-07-29 12:19:00,Email,tour_reminder,session,,,u0020_J1_S1
+u0020,2025-08-07 15:00:00,Email,tour_reminder,conversion,lead,,u0020_J1_S1
+u0020,2025-08-11 12:00:00,Email,tour_reminder,conversion,tour,,u0020_J1_S1
+u0020,2025-12-13 12:00:00,ILS,ils_always_on,session,,,u0020_J2_S0
+u0020,2025-12-13 12:02:00,ILS,ils_always_on,session,,,u0020_J2_S0
+u0020,2025-12-13 12:22:00,ILS,ils_always_on,session,,,u0020_J2_S0
+u0020,2025-12-31 20:00:00,Email,nurture_drip_leads,session,,,u0020_J2_S1
+u0020,2025-12-31 20:08:00,Email,nurture_drip_leads,session,,,u0020_J2_S1
+u0020,2026-01-02 04:00:00,Email,nurture_drip_leads,session,,,u0020_J2_S2
+u0020,2026-01-02 04:02:00,Email,nurture_drip_leads,session,,,u0020_J2_S2
+u0020,2026-01-02 04:21:00,Email,nurture_drip_leads,session,,,u0020_J2_S2
+u0021,2025-04-27 04:00:00,ILS,ils_always_on,session,,,u0021_J1_S0
+u0021,2025-04-27 04:05:00,ILS,ils_always_on,session,,,u0021_J1_S0
+u0021,2025-04-27 04:14:00,ILS,ils_always_on,session,,,u0021_J1_S0
+u0021,2025-05-14 10:00:00,ILS,ils_always_on,conversion,lead,,u0021_J1_S0
+u0021,2025-05-17 08:00:00,Organic,(organic),session,,,u0021_J1_S1
+u0021,2025-05-17 08:05:00,Organic,(organic),session,,,u0021_J1_S1
+u0021,2025-05-17 08:10:00,Organic,(organic),session,,,u0021_J1_S1
+u0021,2025-05-22 08:00:00,Organic,(organic),conversion,tour,,u0021_J1_S1
+u0021,2025-05-31 11:00:00,Organic,(organic),conversion,tour,,u0021_J1_S1
+u0021,2025-06-01 09:00:00,Email,nurture_drip_leads,session,,,u0021_J1_S2
+u0021,2025-06-01 09:08:00,Email,nurture_drip_leads,session,,,u0021_J1_S2
+u0021,2025-06-01 09:09:00,Email,nurture_drip_leads,session,,,u0021_J1_S2
+u0021,2025-06-04 11:00:00,Email,nurture_drip_leads,conversion,application,,u0021_J1_S2
+u0021,2025-06-06 11:00:00,Email,nurture_drip_leads,conversion,lease,,u0021_J1_S2
+u0021,2025-06-14 14:00:00,Email,tour_reminder,session,,,u0021_J1_S3
+u0021,2025-06-14 14:08:00,Email,tour_reminder,session,,,u0021_J1_S3
+u0021,2025-06-14 14:14:00,Email,tour_reminder,session,,,u0021_J1_S3
+u0021,2025-06-23 01:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0021_J1_S4
+u0021,2025-06-23 01:08:00,Paid Social,tiktok_giveaway_q2,session,,,u0021_J1_S4
+u0021,2025-06-23 01:11:00,Paid Social,tiktok_giveaway_q2,session,,,u0021_J1_S4
+u0022,2025-04-28 23:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0022_J1_S0
+u0022,2025-04-28 23:01:00,Paid Social,tiktok_giveaway_q2,session,,,u0022_J1_S0
+u0022,2025-05-15 07:00:00,Paid Social,tiktok_giveaway_q2,conversion,tour,,u0022_J1_S0
+u0022,2025-05-21 12:00:00,Paid Social,tiktok_giveaway_q2,conversion,tour,,u0022_J1_S0
+u0022,2025-05-26 08:00:00,Paid Search,pmax_brand_2026,session,,,u0022_J1_S1
+u0022,2025-05-26 08:04:00,Paid Search,pmax_brand_2026,session,,,u0022_J1_S1
+u0022,2025-05-26 08:11:00,Paid Search,pmax_brand_2026,session,,,u0022_J1_S1
+u0022,2025-05-27 12:00:00,Paid Search,pmax_brand_2026,conversion,application,,u0022_J1_S1
+u0022,2025-06-10 20:00:00,Direct,(direct),session,,,u0022_J1_S2
+u0022,2025-06-10 20:02:00,Direct,(direct),session,,,u0022_J1_S2
+u0022,2025-06-10 20:22:00,Direct,(direct),session,,,u0022_J1_S2
+u0022,2025-07-15 02:00:00,Organic,(organic),session,,,u0022_J1_S3
+u0022,2025-07-15 02:05:00,Organic,(organic),session,,,u0022_J1_S3
+u0022,2025-07-15 02:18:00,Organic,(organic),session,,,u0022_J1_S3
+u0023,2025-07-01 08:00:00,Paid Social,meta_lookalike_renters,session,,,u0023_J1_S0
+u0023,2025-07-01 08:02:00,Paid Social,meta_lookalike_renters,session,,,u0023_J1_S0
+u0023,2025-07-01 08:18:00,Paid Social,meta_lookalike_renters,session,,,u0023_J1_S0
+u0023,2025-07-05 17:00:00,Paid Social,meta_lookalike_renters,conversion,lead,,u0023_J1_S0
+u0023,2025-07-14 14:00:00,Email,tour_reminder,session,,,u0023_J1_S1
+u0023,2025-07-14 14:08:00,Email,tour_reminder,session,,,u0023_J1_S1
+u0023,2025-07-14 14:18:00,Email,tour_reminder,session,,,u0023_J1_S1
+u0023,2025-07-22 22:00:00,Paid Search,nonbrand_2br_socal,session,,,u0023_J1_S2
+u0023,2025-07-22 22:08:00,Paid Search,nonbrand_2br_socal,session,,,u0023_J1_S2
+u0023,2025-07-22 22:10:00,Paid Search,nonbrand_2br_socal,session,,,u0023_J1_S2
+u0023,2025-08-07 08:00:00,Display,rtg_tour_noshow,session,,,u0023_J1_S3
+u0023,2025-08-07 08:05:00,Display,rtg_tour_noshow,session,,,u0023_J1_S3
+u0023,2025-08-07 08:16:00,Display,rtg_tour_noshow,session,,,u0023_J1_S3
+u0023,2026-04-02 08:00:00,ILS,ils_always_on,session,,,u0023_J2_S0
+u0023,2026-04-02 08:07:00,ILS,ils_always_on,session,,,u0023_J2_S0
+u0023,2026-05-03 16:00:00,Email,nurture_drip_leads,session,,,u0023_J2_S1
+u0023,2026-05-03 16:08:00,Email,nurture_drip_leads,session,,,u0023_J2_S1
+u0023,2026-05-03 16:19:00,Email,nurture_drip_leads,session,,,u0023_J2_S1
+u0023,2026-06-01 20:00:00,Organic,(organic),session,,,u0023_J2_S2
+u0023,2026-06-01 20:03:00,Organic,(organic),session,,,u0023_J2_S2
+u0023,2026-06-01 20:24:00,Organic,(organic),session,,,u0023_J2_S2
+u0024,2025-07-27 21:00:00,ILS,ils_always_on,session,,,u0024_J1_S0
+u0024,2025-07-27 21:01:00,ILS,ils_always_on,session,,,u0024_J1_S0
+u0024,2026-03-13 21:00:00,ILS,ils_always_on,session,,,u0024_J2_S0
+u0024,2026-03-13 21:03:00,ILS,ils_always_on,session,,,u0024_J2_S0
+u0024,2026-04-12 09:00:00,Organic,(organic),session,,,u0024_J2_S1
+u0024,2026-04-12 09:02:00,Organic,(organic),session,,,u0024_J2_S1
+u0024,2026-04-12 09:16:00,Organic,(organic),session,,,u0024_J2_S1
+u0024,2026-04-16 12:00:00,Paid Search,nonbrand_2br_socal,session,,,u0024_J2_S2
+u0024,2026-04-16 12:01:00,Paid Search,nonbrand_2br_socal,session,,,u0024_J2_S2
+u0025,2025-12-22 02:00:00,Referral,resident_referral_500,session,,,u0025_J1_S0
+u0025,2025-12-22 02:05:00,Referral,resident_referral_500,session,,,u0025_J1_S0
+u0025,2025-12-28 22:00:00,Referral,resident_referral_500,conversion,lead,,u0025_J1_S0
+u0025,2026-01-15 05:00:00,Referral,resident_referral_500,conversion,tour,,u0025_J1_S0
+u0025,2026-01-18 08:00:00,Referral,resident_referral_500,conversion,tour,,u0025_J1_S0
+u0025,2026-01-22 09:00:00,Direct,(direct),session,,,u0025_J1_S1
+u0025,2026-01-22 09:08:00,Direct,(direct),session,,,u0025_J1_S1
+u0025,2026-01-24 08:00:00,Direct,(direct),conversion,application,,u0025_J1_S1
+u0025,2026-02-07 16:00:00,Organic,(organic),session,,,u0025_J1_S2
+u0025,2026-02-07 16:06:00,Organic,(organic),session,,,u0025_J1_S2
+u0025,2026-02-07 16:21:00,Organic,(organic),session,,,u0025_J1_S2
+u0025,2026-02-17 22:00:00,Organic,(organic),session,,,u0025_J1_S3
+u0025,2026-02-17 22:04:00,Organic,(organic),session,,,u0025_J1_S3
+u0026,2025-10-21 21:00:00,ILS,ils_always_on,session,,,u0026_J1_S0
+u0026,2025-10-21 21:03:00,ILS,ils_always_on,session,,,u0026_J1_S0
+u0026,2025-10-21 21:17:00,ILS,ils_always_on,session,,,u0026_J1_S0
+u0026,2025-11-01 01:00:00,ILS,ils_always_on,conversion,lead,,u0026_J1_S0
+u0026,2025-11-01 04:00:00,Organic,(organic),session,,,u0026_J1_S1
+u0026,2025-11-01 04:02:00,Organic,(organic),session,,,u0026_J1_S1
+u0026,2025-11-04 06:00:00,Display,rtg_tour_noshow,session,,,u0026_J1_S2
+u0026,2025-11-04 06:06:00,Display,rtg_tour_noshow,session,,,u0026_J1_S2
+u0026,2025-11-16 23:00:00,Display,rtg_tour_noshow,conversion,tour,,u0026_J1_S2
+u0026,2025-11-26 00:00:00,Display,rtg_tour_noshow,conversion,tour,,u0026_J1_S2
+u0026,2025-11-28 00:00:00,Display,rtg_tour_noshow,conversion,application,,u0026_J1_S2
+u0026,2025-12-07 15:00:00,Display,rtg_tour_noshow,session,,,u0026_J1_S3
+u0026,2025-12-07 15:01:00,Display,rtg_tour_noshow,session,,,u0026_J1_S3
+u0027,2025-09-24 06:00:00,Paid Social,meta_lookalike_renters,session,,,u0027_J1_S0
+u0027,2025-09-24 06:01:00,Paid Social,meta_lookalike_renters,session,,,u0027_J1_S0
+u0027,2025-09-24 06:10:00,Paid Social,meta_lookalike_renters,session,,,u0027_J1_S0
+u0027,2025-09-29 16:00:00,Paid Social,meta_lookalike_renters,conversion,lead,,u0027_J1_S0
+u0028,2025-07-13 07:00:00,Paid Search,geo_irvine_lease,session,,,u0028_J1_S0
+u0028,2025-07-13 07:03:00,Paid Search,geo_irvine_lease,session,,,u0028_J1_S0
+u0028,2025-07-13 07:17:00,Paid Search,geo_irvine_lease,session,,,u0028_J1_S0
+u0028,2025-08-07 16:00:00,Organic,(organic),session,,,u0028_J1_S1
+u0028,2025-08-07 16:08:00,Organic,(organic),session,,,u0028_J1_S1
+u0028,2025-08-23 23:00:00,Paid Search,pmax_brand_2026,session,,,u0028_J1_S2
+u0028,2025-08-23 23:02:00,Paid Search,pmax_brand_2026,session,,,u0028_J1_S2
+u0028,2025-08-23 23:20:00,Paid Search,pmax_brand_2026,session,,,u0028_J1_S2
+u0029,2025-07-15 22:00:00,Paid Search,nonbrand_2br_socal,session,,,u0029_J1_S0
+u0029,2025-07-15 22:04:00,Paid Search,nonbrand_2br_socal,session,,,u0029_J1_S0
+u0029,2025-07-16 17:00:00,Paid Search,nonbrand_2br_socal,conversion,lead,,u0029_J1_S0
+u0029,2025-08-08 07:00:00,Email,nurture_drip_leads,session,,,u0029_J1_S1
+u0029,2025-08-08 07:02:00,Email,nurture_drip_leads,session,,,u0029_J1_S1
+u0029,2025-08-27 18:00:00,Paid Search,nonbrand_2br_socal,session,,,u0029_J1_S2
+u0029,2025-08-27 18:08:00,Paid Search,nonbrand_2br_socal,session,,,u0029_J1_S2
+u0029,2025-08-27 18:20:00,Paid Search,nonbrand_2br_socal,session,,,u0029_J1_S2
+u0029,2025-09-15 18:00:00,Paid Search,pmax_brand_2026,session,,,u0029_J1_S3
+u0029,2025-09-15 18:05:00,Paid Search,pmax_brand_2026,session,,,u0029_J1_S3
+u0029,2025-09-15 18:22:00,Paid Search,pmax_brand_2026,session,,,u0029_J1_S3
+u0029,2025-10-11 22:00:00,Direct,(direct),session,,,u0029_J1_S4
+u0029,2025-10-11 22:06:00,Direct,(direct),session,,,u0029_J1_S4
+u0029,2025-10-11 23:00:00,Direct,(direct),conversion,tour,,u0029_J1_S4
+u0029,2025-10-21 02:00:00,Direct,(direct),conversion,tour,,u0029_J1_S4
+u0029,2025-10-24 02:00:00,Direct,(direct),conversion,application,,u0029_J1_S4
+u0029,2025-11-03 02:00:00,Direct,(direct),conversion,lease,,u0029_J1_S4
+u0030,2025-10-10 02:00:00,Referral,resident_referral_500,session,,,u0030_J1_S0
+u0030,2025-10-10 02:07:00,Referral,resident_referral_500,session,,,u0030_J1_S0
+u0030,2026-05-31 02:00:00,ILS,ils_always_on,session,,,u0030_J2_S0
+u0030,2026-05-31 02:05:00,ILS,ils_always_on,session,,,u0030_J2_S0
+u0031,2025-10-22 02:00:00,Paid Search,nonbrand_2br_socal,session,,,u0031_J1_S0
+u0031,2025-10-22 02:05:00,Paid Search,nonbrand_2br_socal,session,,,u0031_J1_S0
+u0032,2026-01-30 05:00:00,Email,nurture_drip_leads,session,,,u0032_J1_S0
+u0032,2026-01-30 05:06:00,Email,nurture_drip_leads,session,,,u0032_J1_S0
+u0032,2026-01-30 05:23:00,Email,nurture_drip_leads,session,,,u0032_J1_S0
+u0032,2026-02-19 09:00:00,Email,nurture_drip_leads,conversion,lead,,u0032_J1_S0
+u0032,2026-03-06 11:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0032_J1_S1
+u0032,2026-03-06 11:02:00,Paid Social,tiktok_giveaway_q2,session,,,u0032_J1_S1
+u0032,2026-03-08 15:00:00,Paid Social,tiktok_giveaway_q2,conversion,tour,,u0032_J1_S1
+u0032,2026-03-16 17:00:00,Organic,(organic),session,,,u0032_J1_S2
+u0032,2026-03-16 17:01:00,Organic,(organic),session,,,u0032_J1_S2
+u0032,2026-03-16 17:15:00,Organic,(organic),session,,,u0032_J1_S2
+u0032,2026-03-16 18:00:00,Organic,(organic),conversion,tour,,u0032_J1_S2
+u0033,2025-07-01 08:00:00,Paid Social,meta_lookalike_renters,session,,,u0033_J1_S0
+u0033,2025-07-01 08:06:00,Paid Social,meta_lookalike_renters,session,,,u0033_J1_S0
+u0033,2025-07-06 20:00:00,Display,rtg_30d_abandoners,session,,,u0033_J1_S1
+u0033,2025-07-06 20:05:00,Display,rtg_30d_abandoners,session,,,u0033_J1_S1
+u0033,2025-07-18 15:00:00,Display,rtg_30d_abandoners,conversion,lead,,u0033_J1_S1
+u0033,2025-09-18 12:00:00,Display,rtg_30d_abandoners,conversion,tour,,u0033_J1_S1
+u0033,2025-11-11 20:00:00,Email,tour_reminder,session,,,u0033_J2_S0
+u0033,2025-11-11 20:01:00,Email,tour_reminder,session,,,u0033_J2_S0
+u0033,2025-11-11 20:10:00,Email,tour_reminder,session,,,u0033_J2_S0
+u0033,2025-11-20 20:00:00,Direct,(direct),session,,,u0033_J2_S1
+u0033,2025-11-20 20:02:00,Direct,(direct),session,,,u0033_J2_S1
+u0033,2025-12-14 08:00:00,Organic,(organic),session,,,u0033_J2_S2
+u0033,2025-12-14 08:02:00,Organic,(organic),session,,,u0033_J2_S2
+u0033,2025-12-14 08:16:00,Organic,(organic),session,,,u0033_J2_S2
+u0033,2025-12-30 17:00:00,Paid Social,meta_lookalike_renters,session,,,u0033_J2_S3
+u0033,2025-12-30 17:05:00,Paid Social,meta_lookalike_renters,session,,,u0033_J2_S3
+u0033,2025-12-30 17:09:00,Paid Social,meta_lookalike_renters,session,,,u0033_J2_S3
+u0033,2026-04-15 17:00:00,Email,tour_reminder,session,,,u0033_J3_S0
+u0033,2026-04-15 17:03:00,Email,tour_reminder,session,,,u0033_J3_S0
+u0033,2026-04-15 17:17:00,Email,tour_reminder,session,,,u0033_J3_S0
+u0033,2026-05-13 20:00:00,Email,tour_reminder,conversion,lead,,u0033_J3_S0
+u0033,2026-05-14 18:00:00,Email,tour_reminder,session,,,u0033_J3_S1
+u0033,2026-05-14 18:07:00,Email,tour_reminder,session,,,u0033_J3_S1
+u0034,2025-06-05 00:00:00,ILS,ils_always_on,session,,,u0034_J1_S0
+u0034,2025-06-05 00:07:00,ILS,ils_always_on,session,,,u0034_J1_S0
+u0034,2025-06-05 00:12:00,ILS,ils_always_on,session,,,u0034_J1_S0
+u0034,2025-06-18 11:00:00,ILS,ils_always_on,conversion,lead,,u0034_J1_S0
+u0034,2025-06-19 06:00:00,Organic,(organic),session,,,u0034_J1_S1
+u0034,2025-06-19 06:05:00,Organic,(organic),session,,,u0034_J1_S1
+u0034,2025-06-19 06:13:00,Organic,(organic),session,,,u0034_J1_S1
+u0034,2025-07-18 09:00:00,Paid Search,nonbrand_2br_socal,session,,,u0034_J1_S2
+u0034,2025-07-18 09:02:00,Paid Search,nonbrand_2br_socal,session,,,u0034_J1_S2
+u0034,2025-07-18 09:11:00,Paid Search,nonbrand_2br_socal,session,,,u0034_J1_S2
+u0035,2025-08-11 21:00:00,Paid Search,pmax_brand_2026,session,,,u0035_J1_S0
+u0035,2025-08-11 21:05:00,Paid Search,pmax_brand_2026,session,,,u0035_J1_S0
+u0035,2025-09-09 08:00:00,Organic,(organic),session,,,u0035_J1_S1
+u0035,2025-09-09 08:03:00,Organic,(organic),session,,,u0035_J1_S1
+u0036,2025-08-23 01:00:00,ILS,ils_always_on,session,,,u0036_J1_S0
+u0036,2025-08-23 01:01:00,ILS,ils_always_on,session,,,u0036_J1_S0
+u0036,2025-08-23 01:18:00,ILS,ils_always_on,session,,,u0036_J1_S0
+u0036,2025-08-25 10:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0036_J1_S1
+u0036,2025-08-25 10:01:00,Paid Social,tiktok_giveaway_q2,session,,,u0036_J1_S1
+u0036,2025-08-25 10:13:00,Paid Social,tiktok_giveaway_q2,session,,,u0036_J1_S1
+u0036,2026-04-17 10:00:00,Paid Social,meta_lookalike_renters,session,,,u0036_J2_S0
+u0036,2026-04-17 10:07:00,Paid Social,meta_lookalike_renters,session,,,u0036_J2_S0
+u0036,2026-04-17 10:19:00,Paid Social,meta_lookalike_renters,session,,,u0036_J2_S0
+u0036,2026-05-11 03:00:00,Paid Social,meta_lookalike_renters,conversion,lead,,u0036_J2_S0
+u0037,2025-09-04 21:00:00,Referral,resident_referral_500,session,,,u0037_J1_S0
+u0037,2025-09-04 21:07:00,Referral,resident_referral_500,session,,,u0037_J1_S0
+u0037,2025-09-04 21:23:00,Referral,resident_referral_500,session,,,u0037_J1_S0
+u0037,2025-09-09 07:00:00,Organic,(organic),session,,,u0037_J1_S1
+u0037,2025-09-09 07:02:00,Organic,(organic),session,,,u0037_J1_S1
+u0037,2025-09-09 07:12:00,Organic,(organic),session,,,u0037_J1_S1
+u0037,2025-09-15 11:00:00,Direct,(direct),session,,,u0037_J1_S2
+u0037,2025-09-15 11:05:00,Direct,(direct),session,,,u0037_J1_S2
+u0037,2025-09-15 11:21:00,Direct,(direct),session,,,u0037_J1_S2
+u0038,2025-09-17 06:00:00,Display,rtg_tour_noshow,session,,,u0038_J1_S0
+u0038,2025-09-17 06:03:00,Display,rtg_tour_noshow,session,,,u0038_J1_S0
+u0038,2025-09-17 06:16:00,Display,rtg_tour_noshow,session,,,u0038_J1_S0
+u0039,2025-08-21 08:00:00,ILS,ils_always_on,session,,,u0039_J1_S0
+u0039,2025-08-21 08:07:00,ILS,ils_always_on,session,,,u0039_J1_S0
+u0039,2025-08-21 08:19:00,ILS,ils_always_on,session,,,u0039_J1_S0
+u0039,2025-09-11 17:00:00,Direct,(direct),session,,,u0039_J1_S1
+u0039,2025-09-11 17:06:00,Direct,(direct),session,,,u0039_J1_S1
+u0039,2025-09-11 17:12:00,Direct,(direct),session,,,u0039_J1_S1
+u0039,2025-10-10 02:00:00,Direct,(direct),session,,,u0039_J1_S2
+u0039,2025-10-10 02:02:00,Direct,(direct),session,,,u0039_J1_S2
+u0039,2025-10-10 02:18:00,Direct,(direct),session,,,u0039_J1_S2
+u0039,2025-11-05 13:00:00,Paid Search,pmax_brand_2026,session,,,u0039_J1_S3
+u0039,2025-11-05 13:06:00,Paid Search,pmax_brand_2026,session,,,u0039_J1_S3
+u0039,2025-12-02 17:00:00,Direct,(direct),session,,,u0039_J1_S4
+u0039,2025-12-02 17:04:00,Direct,(direct),session,,,u0039_J1_S4
+u0040,2025-12-05 06:00:00,Paid Search,geo_irvine_lease,session,,,u0040_J1_S0
+u0040,2025-12-05 06:08:00,Paid Search,geo_irvine_lease,session,,,u0040_J1_S0
+u0040,2025-12-10 08:00:00,Display,rtg_tour_noshow,session,,,u0040_J1_S1
+u0040,2025-12-10 08:06:00,Display,rtg_tour_noshow,session,,,u0040_J1_S1
+u0040,2025-12-10 08:11:00,Display,rtg_tour_noshow,session,,,u0040_J1_S1
+u0040,2025-12-30 01:00:00,Display,rtg_tour_noshow,conversion,lead,,u0040_J1_S1
+u0040,2026-01-11 15:00:00,Organic,(organic),session,,,u0040_J1_S2
+u0040,2026-01-11 15:05:00,Organic,(organic),session,,,u0040_J1_S2
+u0041,2025-09-13 02:00:00,ILS,ils_always_on,session,,,u0041_J1_S0
+u0041,2025-09-13 02:08:00,ILS,ils_always_on,session,,,u0041_J1_S0
+u0041,2025-09-19 11:00:00,Email,nurture_drip_leads,session,,,u0041_J1_S1
+u0041,2025-09-19 11:06:00,Email,nurture_drip_leads,session,,,u0041_J1_S1
+u0041,2025-10-22 17:00:00,Email,nurture_drip_leads,session,,,u0041_J1_S2
+u0041,2025-10-22 17:08:00,Email,nurture_drip_leads,session,,,u0041_J1_S2
+u0041,2025-10-22 17:19:00,Email,nurture_drip_leads,session,,,u0041_J1_S2
+u0041,2025-11-22 02:00:00,Paid Social,meta_lookalike_renters,session,,,u0041_J1_S3
+u0041,2025-11-22 02:03:00,Paid Social,meta_lookalike_renters,session,,,u0041_J1_S3
+u0041,2025-11-22 02:23:00,Paid Social,meta_lookalike_renters,session,,,u0041_J1_S3
+u0042,2025-11-29 04:00:00,ILS,ils_always_on,session,,,u0042_J1_S0
+u0042,2025-11-29 04:06:00,ILS,ils_always_on,session,,,u0042_J1_S0
+u0042,2025-11-29 04:13:00,ILS,ils_always_on,session,,,u0042_J1_S0
+u0042,2025-12-16 17:00:00,ILS,ils_always_on,conversion,lead,,u0042_J1_S0
+u0042,2025-12-21 05:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0042_J1_S1
+u0042,2025-12-21 05:07:00,Paid Social,tiktok_giveaway_q2,session,,,u0042_J1_S1
+u0042,2025-12-21 05:11:00,Paid Social,tiktok_giveaway_q2,session,,,u0042_J1_S1
+u0042,2026-01-12 06:00:00,Organic,(organic),session,,,u0042_J1_S2
+u0042,2026-01-12 06:06:00,Organic,(organic),session,,,u0042_J1_S2
+u0042,2026-02-07 09:00:00,Organic,(organic),conversion,tour,,u0042_J1_S2
+u0043,2025-07-17 01:00:00,ILS,ils_always_on,session,,,u0043_J1_S0
+u0043,2025-07-17 01:03:00,ILS,ils_always_on,session,,,u0043_J1_S0
+u0043,2025-07-17 01:14:00,ILS,ils_always_on,session,,,u0043_J1_S0
+u0043,2025-07-26 03:00:00,Paid Search,pmax_brand_2026,session,,,u0043_J1_S1
+u0043,2025-07-26 03:07:00,Paid Search,pmax_brand_2026,session,,,u0043_J1_S1
+u0043,2025-07-26 03:16:00,Paid Search,pmax_brand_2026,session,,,u0043_J1_S1
+u0043,2025-07-31 07:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0043_J1_S2
+u0043,2025-07-31 07:08:00,Paid Social,tiktok_giveaway_q2,session,,,u0043_J1_S2
+u0043,2025-07-31 07:16:00,Paid Social,tiktok_giveaway_q2,session,,,u0043_J1_S2
+u0043,2025-08-07 15:00:00,Organic,(organic),session,,,u0043_J1_S3
+u0043,2025-08-07 15:04:00,Organic,(organic),session,,,u0043_J1_S3
+u0043,2025-08-07 15:23:00,Organic,(organic),session,,,u0043_J1_S3
+u0043,2025-08-10 19:00:00,Organic,(organic),conversion,lead,,u0043_J1_S3
+u0043,2025-08-28 02:00:00,Organic,(organic),conversion,tour,,u0043_J1_S3
+u0043,2025-09-04 07:00:00,Organic,(organic),conversion,tour,,u0043_J1_S3
+u0043,2025-09-06 07:00:00,Organic,(organic),conversion,application,,u0043_J1_S3
+u0044,2025-08-07 01:00:00,ILS,ils_always_on,session,,,u0044_J1_S0
+u0044,2025-08-07 01:06:00,ILS,ils_always_on,session,,,u0044_J1_S0
+u0044,2025-12-02 01:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0044_J2_S0
+u0044,2025-12-02 01:03:00,Paid Social,tiktok_giveaway_q2,session,,,u0044_J2_S0
+u0045,2025-10-28 02:00:00,Organic,(organic),session,,,u0045_J1_S0
+u0045,2025-10-28 02:06:00,Organic,(organic),session,,,u0045_J1_S0
+u0045,2025-10-28 02:19:00,Organic,(organic),session,,,u0045_J1_S0
+u0045,2025-11-13 08:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0045_J1_S1
+u0045,2025-11-13 08:03:00,Paid Social,tiktok_giveaway_q2,session,,,u0045_J1_S1
+u0045,2025-11-13 08:18:00,Paid Social,tiktok_giveaway_q2,session,,,u0045_J1_S1
+u0045,2026-06-12 08:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0045_J2_S0
+u0045,2026-06-12 08:02:00,Paid Social,tiktok_giveaway_q2,session,,,u0045_J2_S0
+u0045,2026-06-14 12:00:00,Direct,(direct),session,,,u0045_J2_S1
+u0045,2026-06-14 12:01:00,Direct,(direct),session,,,u0045_J2_S1
+u0045,2026-06-14 12:23:00,Direct,(direct),session,,,u0045_J2_S1
+u0046,2025-06-08 00:00:00,ILS,ils_always_on,session,,,u0046_J1_S0
+u0046,2025-06-08 00:03:00,ILS,ils_always_on,session,,,u0046_J1_S0
+u0046,2025-07-01 03:00:00,Direct,(direct),session,,,u0046_J1_S1
+u0046,2025-07-01 03:02:00,Direct,(direct),session,,,u0046_J1_S1
+u0047,2025-06-04 01:00:00,Paid Search,geo_irvine_lease,session,,,u0047_J1_S0
+u0047,2025-06-04 01:06:00,Paid Search,geo_irvine_lease,session,,,u0047_J1_S0
+u0047,2025-06-04 01:20:00,Paid Search,geo_irvine_lease,session,,,u0047_J1_S0
+u0047,2025-06-21 12:00:00,Email,nurture_drip_leads,session,,,u0047_J1_S1
+u0047,2025-06-21 12:08:00,Email,nurture_drip_leads,session,,,u0047_J1_S1
+u0047,2025-06-23 17:00:00,Organic,(organic),session,,,u0047_J1_S2
+u0047,2025-06-23 17:03:00,Organic,(organic),session,,,u0047_J1_S2
+u0047,2025-06-23 17:23:00,Organic,(organic),session,,,u0047_J1_S2
+u0047,2025-06-25 05:00:00,Organic,(organic),conversion,lead,,u0047_J1_S2
+u0047,2025-06-28 22:00:00,Direct,(direct),session,,,u0047_J1_S3
+u0047,2025-06-28 22:01:00,Direct,(direct),session,,,u0047_J1_S3
+u0047,2025-07-15 09:00:00,Display,rtg_tour_noshow,session,,,u0047_J1_S4
+u0047,2025-07-15 09:05:00,Display,rtg_tour_noshow,session,,,u0047_J1_S4
+u0048,2026-01-30 21:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0048_J1_S0
+u0048,2026-01-30 21:02:00,Paid Social,tiktok_giveaway_q2,session,,,u0048_J1_S0
+u0048,2026-02-10 03:00:00,Paid Social,tiktok_giveaway_q2,conversion,lead,,u0048_J1_S0
+u0048,2026-02-26 08:00:00,Direct,(direct),session,,,u0048_J1_S1
+u0048,2026-02-26 08:05:00,Direct,(direct),session,,,u0048_J1_S1
+u0048,2026-02-26 08:11:00,Direct,(direct),session,,,u0048_J1_S1
+u0048,2026-03-27 14:00:00,Organic,(organic),session,,,u0048_J1_S2
+u0048,2026-03-27 14:05:00,Organic,(organic),session,,,u0048_J1_S2
+u0048,2026-03-27 14:22:00,Organic,(organic),session,,,u0048_J1_S2
+u0048,2026-04-17 05:00:00,Organic,(organic),conversion,tour,,u0048_J1_S2
+u0048,2026-04-24 10:00:00,Organic,(organic),conversion,tour,,u0048_J1_S2
+u0049,2025-08-23 02:00:00,Paid Search,nonbrand_2br_socal,session,,,u0049_J1_S0
+u0049,2025-08-23 02:07:00,Paid Search,nonbrand_2br_socal,session,,,u0049_J1_S0
+u0049,2025-08-27 22:00:00,Paid Search,nonbrand_2br_socal,conversion,lead,,u0049_J1_S0
+u0049,2025-08-28 12:00:00,Direct,(direct),session,,,u0049_J1_S1
+u0049,2025-08-28 12:08:00,Direct,(direct),session,,,u0049_J1_S1
+u0049,2025-09-12 03:00:00,Direct,(direct),conversion,tour,,u0049_J1_S1
+u0049,2025-09-16 04:00:00,Direct,(direct),conversion,tour,,u0049_J1_S1
+u0049,2025-09-19 04:00:00,Direct,(direct),conversion,application,,u0049_J1_S1
+u0049,2025-09-23 17:00:00,Organic,(organic),session,,,u0049_J1_S2
+u0049,2025-09-23 17:03:00,Organic,(organic),session,,,u0049_J1_S2
+u0049,2025-09-25 04:00:00,Organic,(organic),conversion,lease,,u0049_J1_S2
+u0049,2025-10-27 05:00:00,Organic,(organic),session,,,u0049_J1_S3
+u0049,2025-10-27 05:04:00,Organic,(organic),session,,,u0049_J1_S3
+u0049,2025-11-07 05:00:00,Direct,(direct),session,,,u0049_J1_S4
+u0049,2025-11-07 05:08:00,Direct,(direct),session,,,u0049_J1_S4
+u0050,2025-10-07 22:00:00,ILS,ils_always_on,session,,,u0050_J1_S0
+u0050,2025-10-07 22:06:00,ILS,ils_always_on,session,,,u0050_J1_S0
+u0050,2025-10-19 01:00:00,ILS,ils_always_on,conversion,lead,,u0050_J1_S0
+u0050,2025-11-06 00:00:00,Direct,(direct),session,,,u0050_J1_S1
+u0050,2025-11-06 00:03:00,Direct,(direct),session,,,u0050_J1_S1
+u0050,2025-11-06 00:24:00,Direct,(direct),session,,,u0050_J1_S1
+u0050,2025-12-05 01:00:00,Direct,(direct),session,,,u0050_J1_S2
+u0050,2025-12-05 01:08:00,Direct,(direct),session,,,u0050_J1_S2
+u0050,2025-12-25 07:00:00,Direct,(direct),conversion,tour,,u0050_J1_S2
+u0050,2025-12-26 11:00:00,Email,nurture_drip_leads,session,,,u0050_J1_S3
+u0050,2025-12-26 11:02:00,Email,nurture_drip_leads,session,,,u0050_J1_S3
+u0050,2025-12-26 11:24:00,Email,nurture_drip_leads,session,,,u0050_J1_S3
+u0050,2025-12-31 10:00:00,Email,nurture_drip_leads,conversion,tour,,u0050_J1_S3
+u0050,2026-01-02 10:00:00,Email,nurture_drip_leads,conversion,application,,u0050_J1_S3
+u0051,2025-07-24 00:00:00,Paid Search,geo_irvine_lease,session,,,u0051_J1_S0
+u0051,2025-07-24 00:03:00,Paid Search,geo_irvine_lease,session,,,u0051_J1_S0
+u0051,2025-08-02 12:00:00,Direct,(direct),session,,,u0051_J1_S1
+u0051,2025-08-02 12:02:00,Direct,(direct),session,,,u0051_J1_S1
+u0052,2025-09-05 22:00:00,Paid Search,geo_irvine_lease,session,,,u0052_J1_S0
+u0052,2025-09-05 22:02:00,Paid Search,geo_irvine_lease,session,,,u0052_J1_S0
+u0052,2025-09-24 00:00:00,Direct,(direct),session,,,u0052_J1_S1
+u0052,2025-09-24 00:03:00,Direct,(direct),session,,,u0052_J1_S1
+u0052,2025-10-14 09:00:00,Paid Search,geo_irvine_lease,session,,,u0052_J1_S2
+u0052,2025-10-14 09:06:00,Paid Search,geo_irvine_lease,session,,,u0052_J1_S2
+u0053,2026-02-04 08:00:00,Paid Search,geo_irvine_lease,session,,,u0053_J1_S0
+u0053,2026-02-04 08:05:00,Paid Search,geo_irvine_lease,session,,,u0053_J1_S0
+u0053,2026-02-06 15:00:00,Organic,(organic),session,,,u0053_J1_S1
+u0053,2026-02-06 15:07:00,Organic,(organic),session,,,u0053_J1_S1
+u0053,2026-02-06 15:11:00,Organic,(organic),session,,,u0053_J1_S1
+u0054,2025-07-21 02:00:00,ILS,ils_always_on,session,,,u0054_J1_S0
+u0054,2025-07-21 02:08:00,ILS,ils_always_on,session,,,u0054_J1_S0
+u0054,2025-07-21 02:12:00,ILS,ils_always_on,session,,,u0054_J1_S0
+u0054,2025-08-07 06:00:00,ILS,ils_always_on,conversion,lead,,u0054_J1_S0
+u0054,2025-08-16 04:00:00,Direct,(direct),session,,,u0054_J1_S1
+u0054,2025-08-16 04:07:00,Direct,(direct),session,,,u0054_J1_S1
+u0054,2025-08-16 04:14:00,Direct,(direct),session,,,u0054_J1_S1
+u0054,2025-08-19 06:00:00,Direct,(direct),conversion,tour,,u0054_J1_S1
+u0054,2025-08-28 07:00:00,Direct,(direct),conversion,tour,,u0054_J1_S1
+u0054,2025-09-09 12:00:00,Display,rtg_tour_noshow,session,,,u0054_J1_S2
+u0054,2025-09-09 12:04:00,Display,rtg_tour_noshow,session,,,u0054_J1_S2
+u0055,2025-06-24 02:00:00,Organic,(organic),session,,,u0055_J1_S0
+u0055,2025-06-24 02:05:00,Organic,(organic),session,,,u0055_J1_S0
+u0055,2025-07-17 02:00:00,Display,rtg_tour_noshow,session,,,u0055_J1_S1
+u0055,2025-07-17 02:01:00,Display,rtg_tour_noshow,session,,,u0055_J1_S1
+u0055,2025-07-17 02:15:00,Display,rtg_tour_noshow,session,,,u0055_J1_S1
+u0055,2025-07-21 06:00:00,Organic,(organic),session,,,u0055_J1_S2
+u0055,2025-07-21 06:02:00,Organic,(organic),session,,,u0055_J1_S2
+u0055,2025-07-21 06:23:00,Organic,(organic),session,,,u0055_J1_S2
+u0055,2025-07-22 18:00:00,Organic,(organic),conversion,lead,,u0055_J1_S2
+u0055,2025-08-02 11:00:00,Organic,(organic),conversion,tour,,u0055_J1_S2
+u0055,2025-08-04 12:00:00,Organic,(organic),conversion,tour,,u0055_J1_S2
+u0055,2025-08-10 12:00:00,Organic,(organic),conversion,application,,u0055_J1_S2
+u0055,2025-08-22 15:00:00,Display,rtg_tour_noshow,session,,,u0055_J1_S3
+u0055,2025-08-22 15:02:00,Display,rtg_tour_noshow,session,,,u0055_J1_S3
+u0055,2025-08-22 15:12:00,Display,rtg_tour_noshow,session,,,u0055_J1_S3
+u0055,2026-03-01 15:00:00,ILS,ils_always_on,session,,,u0055_J2_S0
+u0055,2026-03-01 15:01:00,ILS,ils_always_on,session,,,u0055_J2_S0
+u0055,2026-03-01 15:19:00,ILS,ils_always_on,session,,,u0055_J2_S0
+u0055,2026-04-03 15:00:00,Display,rtg_tour_noshow,session,,,u0055_J2_S1
+u0055,2026-04-03 15:03:00,Display,rtg_tour_noshow,session,,,u0055_J2_S1
+u0056,2025-09-08 07:00:00,ILS,ils_always_on,session,,,u0056_J1_S0
+u0056,2025-09-08 07:02:00,ILS,ils_always_on,session,,,u0056_J1_S0
+u0056,2025-10-13 14:00:00,Email,nurture_drip_leads,session,,,u0056_J1_S1
+u0056,2025-10-13 14:08:00,Email,nurture_drip_leads,session,,,u0056_J1_S1
+u0056,2025-10-13 14:16:00,Email,nurture_drip_leads,session,,,u0056_J1_S1
+u0056,2025-11-02 21:00:00,Paid Search,geo_irvine_lease,session,,,u0056_J1_S2
+u0056,2025-11-02 21:08:00,Paid Search,geo_irvine_lease,session,,,u0056_J1_S2
+u0056,2025-11-02 21:21:00,Paid Search,geo_irvine_lease,session,,,u0056_J1_S2
+u0056,2025-11-05 02:00:00,Direct,(direct),session,,,u0056_J1_S3
+u0056,2025-11-05 02:01:00,Direct,(direct),session,,,u0056_J1_S3
+u0057,2025-07-08 04:00:00,ILS,ils_always_on,session,,,u0057_J1_S0
+u0057,2025-07-08 04:04:00,ILS,ils_always_on,session,,,u0057_J1_S0
+u0057,2025-08-08 15:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0057_J1_S1
+u0057,2025-08-08 15:07:00,Paid Social,tiktok_giveaway_q2,session,,,u0057_J1_S1
+u0057,2025-08-08 15:14:00,Paid Social,tiktok_giveaway_q2,session,,,u0057_J1_S1
+u0057,2025-08-13 02:00:00,Organic,(organic),session,,,u0057_J1_S2
+u0057,2025-08-13 02:06:00,Organic,(organic),session,,,u0057_J1_S2
+u0058,2025-11-12 06:00:00,Paid Search,geo_irvine_lease,session,,,u0058_J1_S0
+u0058,2025-11-12 06:07:00,Paid Search,geo_irvine_lease,session,,,u0058_J1_S0
+u0058,2025-11-29 15:00:00,Paid Search,geo_irvine_lease,conversion,lead,,u0058_J1_S0
+u0058,2025-12-10 08:00:00,Paid Search,geo_irvine_lease,conversion,tour,,u0058_J1_S0
+u0058,2025-12-13 11:00:00,Organic,(organic),session,,,u0058_J1_S1
+u0058,2025-12-13 11:03:00,Organic,(organic),session,,,u0058_J1_S1
+u0058,2025-12-13 11:18:00,Organic,(organic),session,,,u0058_J1_S1
+u0059,2025-07-06 23:00:00,Paid Search,nonbrand_2br_socal,session,,,u0059_J1_S0
+u0059,2025-07-06 23:06:00,Paid Search,nonbrand_2br_socal,session,,,u0059_J1_S0
+u0059,2025-07-08 16:00:00,Paid Search,nonbrand_2br_socal,conversion,lead,,u0059_J1_S0
+u0059,2025-07-14 08:00:00,Direct,(direct),session,,,u0059_J1_S1
+u0059,2025-07-14 08:01:00,Direct,(direct),session,,,u0059_J1_S1
+u0059,2025-07-17 03:00:00,Direct,(direct),conversion,tour,,u0059_J1_S1
+u0059,2025-07-19 04:00:00,Direct,(direct),conversion,tour,,u0059_J1_S1
+u0059,2025-07-30 11:00:00,Paid Social,meta_lookalike_renters,session,,,u0059_J1_S2
+u0059,2025-07-30 11:07:00,Paid Social,meta_lookalike_renters,session,,,u0059_J1_S2
+u0060,2025-11-07 21:00:00,Referral,resident_referral_500,session,,,u0060_J1_S0
+u0060,2025-11-07 21:03:00,Referral,resident_referral_500,session,,,u0060_J1_S0
+u0060,2025-11-23 05:00:00,Direct,(direct),session,,,u0060_J1_S1
+u0060,2025-11-23 05:08:00,Direct,(direct),session,,,u0060_J1_S1
+u0060,2025-11-23 05:18:00,Direct,(direct),session,,,u0060_J1_S1
+u0060,2025-11-26 07:00:00,Display,rtg_30d_abandoners,session,,,u0060_J1_S2
+u0060,2025-11-26 07:05:00,Display,rtg_30d_abandoners,session,,,u0060_J1_S2
+u0061,2025-08-31 05:00:00,ILS,ils_always_on,session,,,u0061_J1_S0
+u0061,2025-08-31 05:03:00,ILS,ils_always_on,session,,,u0061_J1_S0
+u0061,2025-09-08 11:00:00,ILS,ils_always_on,conversion,lead,,u0061_J1_S0
+u0061,2025-09-10 11:00:00,ILS,ils_always_on,conversion,tour,,u0061_J1_S0
+u0061,2025-09-11 16:00:00,Email,tour_reminder,session,,,u0061_J1_S1
+u0061,2025-09-11 16:07:00,Email,tour_reminder,session,,,u0061_J1_S1
+u0061,2025-09-16 16:00:00,Email,tour_reminder,conversion,tour,,u0061_J1_S1
+u0061,2025-10-12 02:00:00,Direct,(direct),session,,,u0061_J1_S2
+u0061,2025-10-12 02:03:00,Direct,(direct),session,,,u0061_J1_S2
+u0061,2026-05-13 02:00:00,ILS,ils_always_on,session,,,u0061_J2_S0
+u0061,2026-05-13 02:01:00,ILS,ils_always_on,session,,,u0061_J2_S0
+u0061,2026-05-13 02:20:00,ILS,ils_always_on,session,,,u0061_J2_S0
+u0061,2026-05-31 07:00:00,Paid Search,pmax_brand_2026,session,,,u0061_J2_S1
+u0061,2026-05-31 07:02:00,Paid Search,pmax_brand_2026,session,,,u0061_J2_S1
+u0061,2026-05-31 07:14:00,Paid Search,pmax_brand_2026,session,,,u0061_J2_S1
+u0062,2025-09-11 22:00:00,Paid Search,pmax_brand_2026,session,,,u0062_J1_S0
+u0062,2025-09-11 22:08:00,Paid Search,pmax_brand_2026,session,,,u0062_J1_S0
+u0062,2025-09-16 14:00:00,Paid Search,pmax_brand_2026,conversion,lead,,u0062_J1_S0
+u0062,2026-03-16 22:00:00,ILS,ils_always_on,session,,,u0062_J2_S0
+u0062,2026-03-16 22:01:00,ILS,ils_always_on,session,,,u0062_J2_S0
+u0062,2026-03-23 06:00:00,Paid Social,meta_lookalike_renters,session,,,u0062_J2_S1
+u0062,2026-03-23 06:03:00,Paid Social,meta_lookalike_renters,session,,,u0062_J2_S1
+u0062,2026-03-23 06:25:00,Paid Social,meta_lookalike_renters,session,,,u0062_J2_S1
+u0062,2026-04-08 10:00:00,Paid Social,meta_lookalike_renters,conversion,lead,,u0062_J2_S1
+u0062,2026-04-12 08:00:00,Paid Social,meta_lookalike_renters,conversion,tour,,u0062_J2_S1
+u0062,2026-04-21 14:00:00,Organic,(organic),session,,,u0062_J2_S2
+u0062,2026-04-21 14:08:00,Organic,(organic),session,,,u0062_J2_S2
+u0062,2026-04-21 14:25:00,Organic,(organic),session,,,u0062_J2_S2
+u0063,2025-07-01 07:00:00,ILS,ils_always_on,session,,,u0063_J1_S0
+u0063,2025-07-01 07:01:00,ILS,ils_always_on,session,,,u0063_J1_S0
+u0063,2025-07-01 07:11:00,ILS,ils_always_on,session,,,u0063_J1_S0
+u0063,2025-07-03 13:00:00,Email,nurture_drip_leads,session,,,u0063_J1_S1
+u0063,2025-07-03 13:02:00,Email,nurture_drip_leads,session,,,u0063_J1_S1
+u0063,2025-07-20 13:00:00,Organic,(organic),session,,,u0063_J1_S2
+u0063,2025-07-20 13:07:00,Organic,(organic),session,,,u0063_J1_S2
+u0063,2025-07-20 13:13:00,Organic,(organic),session,,,u0063_J1_S2
+u0063,2025-08-03 22:00:00,Display,rtg_tour_noshow,session,,,u0063_J1_S3
+u0063,2025-08-03 22:06:00,Display,rtg_tour_noshow,session,,,u0063_J1_S3
+u0063,2026-02-07 22:00:00,ILS,ils_always_on,session,,,u0063_J2_S0
+u0063,2026-02-07 22:04:00,ILS,ils_always_on,session,,,u0063_J2_S0
+u0063,2026-03-15 00:00:00,Paid Search,nonbrand_2br_socal,session,,,u0063_J2_S1
+u0063,2026-03-15 00:08:00,Paid Search,nonbrand_2br_socal,session,,,u0063_J2_S1
+u0063,2026-04-07 01:00:00,Email,tour_reminder,session,,,u0063_J2_S2
+u0063,2026-04-07 01:04:00,Email,tour_reminder,session,,,u0063_J2_S2
+u0063,2026-04-07 01:20:00,Email,tour_reminder,session,,,u0063_J2_S2
+u0063,2026-04-19 09:00:00,Direct,(direct),session,,,u0063_J2_S3
+u0063,2026-04-19 09:02:00,Direct,(direct),session,,,u0063_J2_S3
+u0063,2026-04-19 09:22:00,Direct,(direct),session,,,u0063_J2_S3
+u0063,2026-05-15 17:00:00,Email,nurture_drip_leads,session,,,u0063_J2_S4
+u0063,2026-05-15 17:04:00,Email,nurture_drip_leads,session,,,u0063_J2_S4
+u0063,2026-05-15 17:12:00,Email,nurture_drip_leads,session,,,u0063_J2_S4
+u0064,2026-01-25 06:00:00,Paid Social,meta_lookalike_renters,session,,,u0064_J1_S0
+u0064,2026-01-25 06:06:00,Paid Social,meta_lookalike_renters,session,,,u0064_J1_S0
+u0064,2026-01-29 08:00:00,Display,rtg_tour_noshow,session,,,u0064_J1_S1
+u0064,2026-01-29 08:04:00,Display,rtg_tour_noshow,session,,,u0064_J1_S1
+u0064,2026-01-29 08:13:00,Display,rtg_tour_noshow,session,,,u0064_J1_S1
+u0064,2026-03-03 12:00:00,Paid Social,meta_lookalike_renters,session,,,u0064_J1_S2
+u0064,2026-03-03 12:07:00,Paid Social,meta_lookalike_renters,session,,,u0064_J1_S2
+u0064,2026-03-03 12:10:00,Paid Social,meta_lookalike_renters,session,,,u0064_J1_S2
+u0065,2025-11-20 23:00:00,Paid Social,meta_lookalike_renters,session,,,u0065_J1_S0
+u0065,2025-11-20 23:07:00,Paid Social,meta_lookalike_renters,session,,,u0065_J1_S0
+u0065,2025-12-12 10:00:00,Email,nurture_drip_leads,session,,,u0065_J1_S1
+u0065,2025-12-12 10:07:00,Email,nurture_drip_leads,session,,,u0065_J1_S1
+u0065,2025-12-12 10:15:00,Email,nurture_drip_leads,session,,,u0065_J1_S1
+u0065,2025-12-15 17:00:00,Email,nurture_drip_leads,conversion,lead,,u0065_J1_S1
+u0065,2026-01-01 03:00:00,Email,nurture_drip_leads,conversion,tour,,u0065_J1_S1
+u0065,2026-01-06 06:00:00,Email,nurture_drip_leads,conversion,tour,,u0065_J1_S1
+u0065,2026-01-08 06:00:00,Email,nurture_drip_leads,conversion,application,,u0065_J1_S1
+u0065,2026-01-08 16:00:00,Organic,(organic),session,,,u0065_J1_S2
+u0065,2026-01-08 16:08:00,Organic,(organic),session,,,u0065_J1_S2
+u0065,2026-01-16 06:00:00,Organic,(organic),conversion,lease,,u0065_J1_S2
+u0065,2026-01-18 20:00:00,Direct,(direct),session,,,u0065_J1_S3
+u0065,2026-01-18 20:01:00,Direct,(direct),session,,,u0065_J1_S3
+u0065,2026-01-18 20:10:00,Direct,(direct),session,,,u0065_J1_S3
+u0065,2026-02-12 22:00:00,Display,rtg_30d_abandoners,session,,,u0065_J1_S4
+u0065,2026-02-12 22:04:00,Display,rtg_30d_abandoners,session,,,u0065_J1_S4
+u0065,2026-02-12 22:19:00,Display,rtg_30d_abandoners,session,,,u0065_J1_S4
+u0066,2026-02-11 06:00:00,Direct,(direct),session,,,u0066_J1_S0
+u0066,2026-02-11 06:08:00,Direct,(direct),session,,,u0066_J1_S0
+u0066,2026-02-25 12:00:00,Organic,(organic),session,,,u0066_J1_S1
+u0066,2026-02-25 12:06:00,Organic,(organic),session,,,u0066_J1_S1
+u0066,2026-02-25 12:10:00,Organic,(organic),session,,,u0066_J1_S1
+u0066,2026-02-26 00:00:00,Organic,(organic),conversion,lead,,u0066_J1_S1
+u0066,2026-03-10 11:00:00,Organic,(organic),conversion,tour,,u0066_J1_S1
+u0066,2026-03-13 20:00:00,Email,nurture_drip_leads,session,,,u0066_J1_S2
+u0066,2026-03-13 20:03:00,Email,nurture_drip_leads,session,,,u0066_J1_S2
+u0066,2026-03-13 20:22:00,Email,nurture_drip_leads,session,,,u0066_J1_S2
+u0066,2026-03-16 14:00:00,Email,nurture_drip_leads,conversion,tour,,u0066_J1_S2
+u0066,2026-03-23 14:00:00,Email,nurture_drip_leads,conversion,application,,u0066_J1_S2
+u0066,2026-03-31 14:00:00,Email,nurture_drip_leads,conversion,lease,,u0066_J1_S2
+u0066,2026-04-04 08:00:00,Direct,(direct),session,,,u0066_J1_S3
+u0066,2026-04-04 08:06:00,Direct,(direct),session,,,u0066_J1_S3
+u0066,2026-04-04 08:16:00,Direct,(direct),session,,,u0066_J1_S3
+u0066,2026-04-23 14:00:00,Email,tour_reminder,session,,,u0066_J1_S4
+u0066,2026-04-23 14:05:00,Email,tour_reminder,session,,,u0066_J1_S4
+u0067,2025-06-12 02:00:00,Paid Search,geo_irvine_lease,session,,,u0067_J1_S0
+u0067,2025-06-12 02:01:00,Paid Search,geo_irvine_lease,session,,,u0067_J1_S0
+u0067,2025-06-24 10:00:00,Display,rtg_30d_abandoners,session,,,u0067_J1_S1
+u0067,2025-06-24 10:01:00,Display,rtg_30d_abandoners,session,,,u0067_J1_S1
+u0067,2026-01-06 10:00:00,Paid Search,nonbrand_2br_socal,session,,,u0067_J2_S0
+u0067,2026-01-06 10:01:00,Paid Search,nonbrand_2br_socal,session,,,u0067_J2_S0
+u0067,2026-01-23 01:00:00,Paid Search,nonbrand_2br_socal,conversion,lead,,u0067_J2_S0
+u0068,2026-02-10 09:00:00,ILS,ils_always_on,session,,,u0068_J1_S0
+u0068,2026-02-10 09:01:00,ILS,ils_always_on,session,,,u0068_J1_S0
+u0069,2025-11-19 08:00:00,Direct,(direct),session,,,u0069_J1_S0
+u0069,2025-11-19 08:02:00,Direct,(direct),session,,,u0069_J1_S0
+u0069,2025-11-19 08:21:00,Direct,(direct),session,,,u0069_J1_S0
+u0069,2025-12-12 12:00:00,Organic,(organic),session,,,u0069_J1_S1
+u0069,2025-12-12 12:04:00,Organic,(organic),session,,,u0069_J1_S1
+u0069,2025-12-12 12:11:00,Organic,(organic),session,,,u0069_J1_S1
+u0069,2026-03-21 12:00:00,Paid Search,geo_irvine_lease,session,,,u0069_J2_S0
+u0069,2026-03-21 12:06:00,Paid Search,geo_irvine_lease,session,,,u0069_J2_S0
+u0069,2026-04-01 13:00:00,Display,rtg_30d_abandoners,session,,,u0069_J2_S1
+u0069,2026-04-01 13:01:00,Display,rtg_30d_abandoners,session,,,u0069_J2_S1
+u0069,2026-04-01 13:24:00,Display,rtg_30d_abandoners,session,,,u0069_J2_S1
+u0069,2026-05-03 19:00:00,Direct,(direct),session,,,u0069_J2_S2
+u0069,2026-05-03 19:05:00,Direct,(direct),session,,,u0069_J2_S2
+u0070,2025-11-19 04:00:00,Paid Search,pmax_brand_2026,session,,,u0070_J1_S0
+u0070,2025-11-19 04:07:00,Paid Search,pmax_brand_2026,session,,,u0070_J1_S0
+u0070,2025-11-19 04:11:00,Paid Search,pmax_brand_2026,session,,,u0070_J1_S0
+u0070,2025-12-01 09:00:00,Paid Search,pmax_brand_2026,conversion,lead,,u0070_J1_S0
+u0070,2025-12-05 13:00:00,Paid Search,pmax_brand_2026,conversion,tour,,u0070_J1_S0
+u0070,2025-12-12 14:00:00,Paid Search,pmax_brand_2026,conversion,tour,,u0070_J1_S0
+u0070,2025-12-14 14:00:00,Organic,(organic),session,,,u0070_J1_S1
+u0070,2025-12-14 14:06:00,Organic,(organic),session,,,u0070_J1_S1
+u0070,2025-12-14 14:17:00,Organic,(organic),session,,,u0070_J1_S1
+u0070,2026-01-18 19:00:00,Display,rtg_tour_noshow,session,,,u0070_J1_S2
+u0070,2026-01-18 19:08:00,Display,rtg_tour_noshow,session,,,u0070_J1_S2
+u0070,2026-01-18 19:21:00,Display,rtg_tour_noshow,session,,,u0070_J1_S2
+u0071,2025-04-24 23:00:00,ILS,ils_always_on,session,,,u0071_J1_S0
+u0071,2025-04-24 23:07:00,ILS,ils_always_on,session,,,u0071_J1_S0
+u0071,2025-04-24 23:12:00,ILS,ils_always_on,session,,,u0071_J1_S0
+u0071,2025-04-29 12:00:00,ILS,ils_always_on,conversion,lead,,u0071_J1_S0
+u0072,2025-09-14 02:00:00,ILS,ils_always_on,session,,,u0072_J1_S0
+u0072,2025-09-14 02:01:00,ILS,ils_always_on,session,,,u0072_J1_S0
+u0072,2025-09-14 02:11:00,ILS,ils_always_on,session,,,u0072_J1_S0
+u0072,2025-10-17 08:00:00,Email,tour_reminder,session,,,u0072_J1_S1
+u0072,2025-10-17 08:07:00,Email,tour_reminder,session,,,u0072_J1_S1
+u0072,2025-10-17 08:22:00,Email,tour_reminder,session,,,u0072_J1_S1
+u0073,2025-05-08 06:00:00,ILS,ils_always_on,session,,,u0073_J1_S0
+u0073,2025-05-08 06:03:00,ILS,ils_always_on,session,,,u0073_J1_S0
+u0073,2025-05-08 06:22:00,ILS,ils_always_on,session,,,u0073_J1_S0
+u0073,2025-06-09 08:00:00,Direct,(direct),session,,,u0073_J1_S1
+u0073,2025-06-09 08:06:00,Direct,(direct),session,,,u0073_J1_S1
+u0073,2025-06-09 08:16:00,Direct,(direct),session,,,u0073_J1_S1
+u0073,2026-01-12 08:00:00,ILS,ils_always_on,session,,,u0073_J2_S0
+u0073,2026-01-12 08:06:00,ILS,ils_always_on,session,,,u0073_J2_S0
+u0074,2025-09-03 02:00:00,ILS,ils_always_on,session,,,u0074_J1_S0
+u0074,2025-09-03 02:04:00,ILS,ils_always_on,session,,,u0074_J1_S0
+u0074,2025-09-03 02:17:00,ILS,ils_always_on,session,,,u0074_J1_S0
+u0074,2025-09-16 09:00:00,Display,rtg_tour_noshow,session,,,u0074_J1_S1
+u0074,2025-09-16 09:06:00,Display,rtg_tour_noshow,session,,,u0074_J1_S1
+u0074,2025-09-16 09:15:00,Display,rtg_tour_noshow,session,,,u0074_J1_S1
+u0074,2025-10-07 11:00:00,Email,nurture_drip_leads,session,,,u0074_J1_S2
+u0074,2025-10-07 11:01:00,Email,nurture_drip_leads,session,,,u0074_J1_S2
+u0074,2025-11-02 16:00:00,Organic,(organic),session,,,u0074_J1_S3
+u0074,2025-11-02 16:08:00,Organic,(organic),session,,,u0074_J1_S3
+u0074,2025-11-22 03:00:00,Display,rtg_30d_abandoners,session,,,u0074_J1_S4
+u0074,2025-11-22 03:07:00,Display,rtg_30d_abandoners,session,,,u0074_J1_S4
+u0074,2026-03-28 03:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0074_J2_S0
+u0074,2026-03-28 03:08:00,Paid Social,tiktok_giveaway_q2,session,,,u0074_J2_S0
+u0074,2026-04-22 04:00:00,Email,tour_reminder,session,,,u0074_J2_S1
+u0074,2026-04-22 04:01:00,Email,tour_reminder,session,,,u0074_J2_S1
+u0075,2025-05-20 00:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0075_J1_S0
+u0075,2025-05-20 00:07:00,Paid Social,tiktok_giveaway_q2,session,,,u0075_J1_S0
+u0075,2025-05-20 00:12:00,Paid Social,tiktok_giveaway_q2,session,,,u0075_J1_S0
+u0075,2025-05-23 09:00:00,Direct,(direct),session,,,u0075_J1_S1
+u0075,2025-05-23 09:08:00,Direct,(direct),session,,,u0075_J1_S1
+u0075,2025-05-23 09:23:00,Direct,(direct),session,,,u0075_J1_S1
+u0075,2025-06-09 13:00:00,Direct,(direct),conversion,lead,,u0075_J1_S1
+u0075,2025-12-28 09:00:00,Paid Search,pmax_brand_2026,session,,,u0075_J2_S0
+u0075,2025-12-28 09:08:00,Paid Search,pmax_brand_2026,session,,,u0075_J2_S0
+u0075,2025-12-28 09:12:00,Paid Search,pmax_brand_2026,session,,,u0075_J2_S0
+u0075,2026-01-03 10:00:00,Organic,(organic),session,,,u0075_J2_S1
+u0075,2026-01-03 10:06:00,Organic,(organic),session,,,u0075_J2_S1
+u0075,2026-01-03 10:10:00,Organic,(organic),session,,,u0075_J2_S1
+u0075,2026-01-13 15:00:00,Display,rtg_30d_abandoners,session,,,u0075_J2_S2
+u0075,2026-01-13 15:01:00,Display,rtg_30d_abandoners,session,,,u0075_J2_S2
+u0075,2026-02-02 20:00:00,Paid Search,geo_irvine_lease,session,,,u0075_J2_S3
+u0075,2026-02-02 20:03:00,Paid Search,geo_irvine_lease,session,,,u0075_J2_S3
+u0075,2026-03-05 08:00:00,Paid Search,geo_irvine_lease,session,,,u0075_J2_S4
+u0075,2026-03-05 08:03:00,Paid Search,geo_irvine_lease,session,,,u0075_J2_S4
+u0076,2025-06-27 06:00:00,Organic,(organic),session,,,u0076_J1_S0
+u0076,2025-06-27 06:07:00,Organic,(organic),session,,,u0076_J1_S0
+u0076,2025-06-27 06:15:00,Organic,(organic),session,,,u0076_J1_S0
+u0076,2025-06-29 17:00:00,Direct,(direct),session,,,u0076_J1_S1
+u0076,2025-06-29 17:02:00,Direct,(direct),session,,,u0076_J1_S1
+u0076,2025-07-16 13:00:00,Direct,(direct),conversion,lead,,u0076_J1_S1
+u0077,2025-09-05 06:00:00,ILS,ils_always_on,session,,,u0077_J1_S0
+u0077,2025-09-05 06:06:00,ILS,ils_always_on,session,,,u0077_J1_S0
+u0077,2025-09-13 11:00:00,Email,tour_reminder,session,,,u0077_J1_S1
+u0077,2025-09-13 11:03:00,Email,tour_reminder,session,,,u0077_J1_S1
+u0077,2025-09-23 09:00:00,Email,tour_reminder,conversion,lead,,u0077_J1_S1
+u0077,2025-09-29 12:00:00,Email,tour_reminder,conversion,tour,,u0077_J1_S1
+u0077,2025-10-02 14:00:00,Email,tour_reminder,conversion,tour,,u0077_J1_S1
+u0077,2025-10-06 14:00:00,Email,tour_reminder,conversion,application,,u0077_J1_S1
+u0077,2025-10-06 18:00:00,Organic,(organic),session,,,u0077_J1_S2
+u0077,2025-10-06 18:03:00,Organic,(organic),session,,,u0077_J1_S2
+u0077,2025-10-08 14:00:00,Organic,(organic),conversion,lease,,u0077_J1_S2
+u0077,2025-10-19 04:00:00,Email,nurture_drip_leads,session,,,u0077_J1_S3
+u0077,2025-10-19 04:03:00,Email,nurture_drip_leads,session,,,u0077_J1_S3
+u0077,2025-10-19 04:23:00,Email,nurture_drip_leads,session,,,u0077_J1_S3
+u0077,2025-11-08 13:00:00,Email,tour_reminder,session,,,u0077_J1_S4
+u0077,2025-11-08 13:01:00,Email,tour_reminder,session,,,u0077_J1_S4
+u0077,2025-11-08 13:15:00,Email,tour_reminder,session,,,u0077_J1_S4
+u0078,2025-06-04 23:00:00,ILS,ils_always_on,session,,,u0078_J1_S0
+u0078,2025-06-04 23:05:00,ILS,ils_always_on,session,,,u0078_J1_S0
+u0078,2025-06-04 23:16:00,ILS,ils_always_on,session,,,u0078_J1_S0
+u0078,2025-06-16 00:00:00,Email,nurture_drip_leads,session,,,u0078_J1_S1
+u0078,2025-06-16 00:08:00,Email,nurture_drip_leads,session,,,u0078_J1_S1
+u0078,2025-06-23 00:00:00,Email,nurture_drip_leads,conversion,lead,,u0078_J1_S1
+u0078,2026-01-19 00:00:00,ILS,ils_always_on,session,,,u0078_J2_S0
+u0078,2026-01-19 00:05:00,ILS,ils_always_on,session,,,u0078_J2_S0
+u0078,2026-01-19 00:11:00,ILS,ils_always_on,session,,,u0078_J2_S0
+u0078,2026-01-22 08:00:00,ILS,ils_always_on,conversion,lead,,u0078_J2_S0
+u0078,2026-01-22 12:00:00,Organic,(organic),session,,,u0078_J2_S1
+u0078,2026-01-22 12:04:00,Organic,(organic),session,,,u0078_J2_S1
+u0078,2026-01-22 12:20:00,Organic,(organic),session,,,u0078_J2_S1
+u0078,2026-02-02 01:00:00,Organic,(organic),conversion,tour,,u0078_J2_S1
+u0078,2026-02-20 20:00:00,Display,rtg_tour_noshow,session,,,u0078_J2_S2
+u0078,2026-02-20 20:03:00,Display,rtg_tour_noshow,session,,,u0078_J2_S2
+u0078,2026-03-07 02:00:00,Display,rtg_30d_abandoners,session,,,u0078_J2_S3
+u0078,2026-03-07 02:01:00,Display,rtg_30d_abandoners,session,,,u0078_J2_S3
+u0079,2025-05-19 07:00:00,ILS,ils_always_on,session,,,u0079_J1_S0
+u0079,2025-05-19 07:03:00,ILS,ils_always_on,session,,,u0079_J1_S0
+u0079,2025-05-23 12:00:00,ILS,ils_always_on,conversion,lead,,u0079_J1_S0
+u0079,2025-06-21 17:00:00,Display,rtg_tour_noshow,session,,,u0079_J1_S1
+u0079,2025-06-21 17:08:00,Display,rtg_tour_noshow,session,,,u0079_J1_S1
+u0079,2025-06-21 17:17:00,Display,rtg_tour_noshow,session,,,u0079_J1_S1
+u0079,2025-06-28 19:00:00,Email,tour_reminder,session,,,u0079_J1_S2
+u0079,2025-06-28 19:08:00,Email,tour_reminder,session,,,u0079_J1_S2
+u0079,2025-06-28 19:11:00,Email,tour_reminder,session,,,u0079_J1_S2
+u0079,2025-07-25 19:00:00,Organic,(organic),session,,,u0079_J1_S3
+u0079,2025-07-25 19:06:00,Organic,(organic),session,,,u0079_J1_S3
+u0079,2025-07-25 19:24:00,Organic,(organic),session,,,u0079_J1_S3
+u0079,2025-08-13 05:00:00,Organic,(organic),session,,,u0079_J1_S4
+u0079,2025-08-13 05:02:00,Organic,(organic),session,,,u0079_J1_S4
+u0080,2025-08-19 08:00:00,Organic,(organic),session,,,u0080_J1_S0
+u0080,2025-08-19 08:03:00,Organic,(organic),session,,,u0080_J1_S0
+u0080,2025-08-19 08:09:00,Organic,(organic),session,,,u0080_J1_S0
+u0080,2025-08-28 17:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0080_J1_S1
+u0080,2025-08-28 17:04:00,Paid Social,tiktok_giveaway_q2,session,,,u0080_J1_S1
+u0080,2025-08-29 10:00:00,Paid Social,tiktok_giveaway_q2,conversion,lead,,u0080_J1_S1
+u0080,2025-09-01 10:00:00,Paid Social,tiktok_giveaway_q2,conversion,tour,,u0080_J1_S1
+u0080,2025-09-10 11:00:00,Paid Social,tiktok_giveaway_q2,conversion,tour,,u0080_J1_S1
+u0080,2025-09-30 05:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0080_J1_S2
+u0080,2025-09-30 05:03:00,Paid Social,tiktok_giveaway_q2,session,,,u0080_J1_S2
+u0081,2026-05-28 09:00:00,Paid Search,pmax_brand_2026,session,,,u0081_J1_S0
+u0081,2026-05-30 09:00:00,Email,nurture_drip_leads,conversion,lead,,u0081_J1_S1
+u0081,2026-06-18 09:00:00,Direct,(direct),conversion,tour,,u0081_J1_S2
+u0082,2026-05-17 09:00:00,Paid Social,meta_lookalike_renters,session,,,u0082_J1_S0
+u0082,2026-05-21 09:00:00,Email,nurture_drip_leads,conversion,lead,,u0082_J1_S1
+u0082,2026-06-18 09:00:00,Direct,(direct),conversion,tour,,u0082_J1_S2
+u0083,2026-06-13 09:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0083_J1_S0
+u0083,2026-06-17 09:00:00,Email,nurture_drip_leads,conversion,lead,,u0083_J1_S1
+u0083,2026-06-18 09:00:00,Direct,(direct),conversion,tour,,u0083_J1_S2
+u0084,2026-06-07 09:00:00,Paid Social,tiktok_giveaway_q2,session,,,u0084_J1_S0
+u0084,2026-06-11 09:00:00,Email,nurture_drip_leads,conversion,lead,,u0084_J1_S1
+u0084,2026-06-18 09:00:00,Direct,(direct),conversion,tour,,u0084_J1_S2
+u0085,2026-05-05 09:00:00,ILS,ils_always_on,session,,,u0085_J1_S0
+u0085,2026-05-11 09:00:00,Email,nurture_drip_leads,conversion,lead,,u0085_J1_S1
+u0085,2026-06-18 09:00:00,Direct,(direct),conversion,tour,,u0085_J1_S2
