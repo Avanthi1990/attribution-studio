@@ -1,3 +1,7 @@
+# Private / local-only notes (comments must be on their OWN line in .gitignore)
+INTERVIEW_NOTES.md
+LEARNING_NOTES.md
+
 # Python
 .venv/
 __pycache__/
