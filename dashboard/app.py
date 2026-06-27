@@ -145,37 +145,57 @@ with st.sidebar:
         st.info("Config + rebuild need a local Postgres. This hosted demo shows a "
                 "committed snapshot (target = lead).")
 
-tab_compare, tab_journeys = st.tabs(["Model comparison", "Journey explorer"])
+tab_compare, tab_journeys = st.tabs(["Attribution by model", "Journey explorer"])
 
 with tab_compare:
     present = [m for m in MODELS if m in set(credit["attribution_model"])]
-    credit["Model"] = credit["attribution_model"].map(MODELS)
+    label_to_key = {MODELS[m]: m for m in present}
 
-    total = credit.groupby("attribution_model")["attributed_conversions"].sum()
-    c1, c2 = st.columns(2)
-    c1.metric("Channels", credit["channel"].nunique())
-    c2.metric("Conversions attributed (per model)", f"{total.iloc[0]:.0f}")
+    # THE TOGGLE: pick one model, see its numbers
+    choice = st.radio("Attribution model", [MODELS[m] for m in present],
+                      horizontal=True)
+    model_key = label_to_key[choice]
 
-    st.subheader("Credit by channel")
+    d = (credit[credit["attribution_model"] == model_key]
+         .sort_values("attributed_conversions", ascending=False).copy())
+    total = d["attributed_conversions"].sum()
+    d["share"] = d["attributed_conversions"] / total * 100
+
+    top = d.iloc[0]
+    c1, c2, c3 = st.columns(3)
+    c1.metric("Conversions attributed", f"{total:.0f}")
+    c2.metric("Channels credited", len(d))
+    c3.metric("Top channel", f"{top['channel']}", f"{top['share']:.0f}% of credit")
+
+    st.subheader(f"{choice} — credit by channel")
     fig = px.bar(
-        credit, x="channel", y="attributed_conversions", color="Model",
-        barmode="group",
-        category_orders={"Model": [MODELS[m] for m in present]},
-        labels={"attributed_conversions": "Attributed conversions", "channel": "Channel"},
+        d, x="attributed_conversions", y="channel", orientation="h",
+        text=d["attributed_conversions"].round(1),
+        labels={"attributed_conversions": "Attributed conversions", "channel": ""},
     )
-    fig.update_layout(legend_title_text="", height=460)
+    fig.update_traces(marker_color="#4C78A8", textposition="outside")
+    fig.update_layout(height=420, showlegend=False,
+                      yaxis={"categoryorder": "total ascending"})
     st.plotly_chart(fig, use_container_width=True)
 
-    st.subheader("Side by side")
-    pivot = (
-        credit.pivot_table(index="channel", columns="attribution_model",
-                           values="attributed_conversions", aggfunc="sum")
-        .reindex(columns=present).rename(columns=MODELS).round(2)
-        .sort_values(MODELS[present[0]], ascending=False)
-    )
-    st.dataframe(pivot, use_container_width=True)
-    st.caption("Every model distributes the same total conversions — they just "
-               "disagree on *which channel* earned each one.")
+    show = (d[["channel", "attributed_conversions", "share"]]
+            .rename(columns={"channel": "Channel",
+                             "attributed_conversions": "Conversions",
+                             "share": "Share %"}))
+    show["Conversions"] = show["Conversions"].round(2)
+    show["Share %"] = show["Share %"].round(1)
+    st.dataframe(show, use_container_width=True, hide_index=True)
+
+    with st.expander("Compare all models side by side"):
+        pivot = (
+            credit.pivot_table(index="channel", columns="attribution_model",
+                               values="attributed_conversions", aggfunc="sum")
+            .reindex(columns=present).rename(columns=MODELS).round(2)
+            .sort_values(MODELS[present[0]], ascending=False)
+        )
+        st.dataframe(pivot, use_container_width=True)
+        st.caption("Same total conversions every model — they disagree on *which "
+                   "channel* earned each one.")
 
 with tab_journeys:
     st.subheader("Journey explorer")
